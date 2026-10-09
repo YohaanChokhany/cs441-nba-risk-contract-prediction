@@ -68,4 +68,5 @@ none
 - Seasons 2000 to 2025; players 1,582; rows with the Estimated Plus-Minus extension available: 7,689
 - Targets: salary median 4,000,000 dollars, mean 6,925,372; share of cap median 0.0618; skewness salary 2.40, log salary -0.12
 - Correlation of final features with log salary (top 12): mpg_l1 0.61, pts_l1 0.58, ws_avg2 0.57, mp_avg2 0.56, gs_share_l1 0.54, peak_bpm 0.54, bpm_avg2 0.53, per_avg2 0.53, pts_36_avg2 0.53, obpm_l1 0.52, vorp_l1 0.50, career_ws 0.47
+- Prior-salary extension (not a feature in the main table): available for 8,520 of 8,620 rows
 - Duplicate player-seasons: 0; fold sizes: {0: 1808, 1: 1845, 2: 1650, 3: 1625, 4: 1692}; time holdout rows: 1101
