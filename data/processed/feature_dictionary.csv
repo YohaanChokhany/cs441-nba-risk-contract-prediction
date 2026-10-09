@@ -1,0 +1,77 @@
+feature,group,kept_after_pruning,dropped_because_correlated_with,absolute_correlation,abs_corr_with_targets,description,source_tables
+age,player profile,True,,,0.207,age on February 1 of the salary season,"dim_players, dim_draft_history, salaries"
+age_sq,player profile,False,age,0.996,0.191,age squared (for linear models),"dim_players, dim_draft_history, salaries"
+exp_prior,player profile,False,career_g,0.909,0.341,"seasons since the player's first season, before the salary season","dim_players, dim_draft_history, salaries"
+years_since_draft,player profile,True,,,0.188,full seasons since the draft (seasons since debut if undrafted),"dim_players, dim_draft_history, salaries"
+draft_pick,player profile,True,,,0.217,overall draft pick (61 if undrafted or not listed),"dim_players, dim_draft_history, salaries"
+undrafted_or_unlisted,player profile,True,,,0.2,1 if the player has no draft record,"dim_players, dim_draft_history, salaries"
+height_cm,player profile,True,,,0.086,height in centimeters,"dim_players, dim_draft_history, salaries"
+weight_kg,player profile,True,,,0.101,weight in kilograms,"dim_players, dim_draft_history, salaries"
+pos_C,position,True,,,0.041,1 if primary position is C,"salaries, season statistics, dim_players"
+pos_PF,position,True,,,0.039,1 if primary position is PF,"salaries, season statistics, dim_players"
+pos_PG,position,True,,,0.03,1 if primary position is PG,"salaries, season statistics, dim_players"
+pos_SF,position,True,,,0.032,1 if primary position is SF,"salaries, season statistics, dim_players"
+pos_SG,position,True,,,0.021,1 if primary position is SG,"salaries, season statistics, dim_players"
+g_l1,prior-season performance,False,g_share_l1,0.937,0.2,"games played, prior season",fact_player_season_stats
+mp_l1,prior-season performance,False,mp_avg2,0.905,0.51,"minutes played, prior season",fact_player_season_stats
+mpg_l1,prior-season performance,True,,,0.621,"minutes per game, prior season",fact_player_season_stats
+gs_share_l1,prior-season performance,True,,,0.558,"share of games started, prior season",fact_player_season_stats
+g_share_l1,prior-season performance,True,,,0.212,"games played as a share of the most games any player logged that season (availability proxy), prior season",fact_player_season_stats
+pts_l1,prior-season performance,True,,,0.603,"total points, prior season",fact_player_season_stats
+pts_36_l1,prior-season performance,False,pts_36_avg2,0.959,0.516,"points per 36 minutes, prior season",fact_player_season_stats
+trb_36_l1,prior-season performance,True,,,0.12,"rebounds per 36 minutes, prior season",fact_player_season_stats
+ast_36_l1,prior-season performance,False,ast_percent_l1,0.984,0.226,"assists per 36 minutes, prior season",fact_player_season_stats
+stl_36_l1,prior-season performance,False,stl_percent_l1,0.992,0.01,"steals per 36 minutes, prior season",fact_player_season_stats
+blk_36_l1,prior-season performance,False,blk_percent_l1,0.991,0.066,"blocks per 36 minutes, prior season",fact_player_season_stats
+tov_36_l1,prior-season performance,True,,,0.244,"turnovers per 36 minutes, prior season",fact_player_season_stats
+x3pa_36_l1,prior-season performance,True,,,0.108,"three point attempts per 36 minutes, prior season",fact_player_season_stats
+ts_percent_l1,prior-season performance,True,,,0.268,"true shooting percentage, prior season",fact_player_season_stats
+usg_percent_l1,prior-season performance,True,,,0.453,"usage percentage, prior season",fact_player_season_stats
+per_l1,prior-season performance,False,per_avg2,0.936,0.54,"player efficiency rating, prior season",fact_player_season_stats
+ws_l1,prior-season performance,False,ws_avg2,0.928,0.558,"win shares, prior season",fact_player_season_stats
+ws_48_l1,prior-season performance,True,,,0.405,"win shares per 48 minutes, prior season",fact_player_season_stats
+obpm_l1,prior-season performance,True,,,0.547,"offensive box plus-minus, prior season",fact_player_season_stats
+dbpm_l1,prior-season performance,True,,,0.112,"defensive box plus-minus, prior season",fact_player_season_stats
+bpm_l1,prior-season performance,False,bpm_avg2,0.917,0.529,"box plus-minus, prior season",fact_player_season_stats
+vorp_l1,prior-season performance,True,,,0.559,"value over replacement player, prior season",fact_player_season_stats
+o_rtg_l1,prior-season performance,True,,,0.27,"offensive rating, prior season",fact_player_season_stats
+d_rtg_l1,prior-season performance,True,,,0.117,"defensive rating, prior season",fact_player_season_stats
+ast_percent_l1,prior-season performance,True,,,0.261,"assist percentage, prior season",fact_player_season_stats
+trb_percent_l1,prior-season performance,False,trb_36_l1,0.995,0.116,"rebound percentage, prior season",fact_player_season_stats
+tov_percent_l1,prior-season performance,True,,,0.122,"turnover percentage, prior season",fact_player_season_stats
+stl_percent_l1,prior-season performance,True,,,0.02,"steal percentage, prior season",fact_player_season_stats
+blk_percent_l1,prior-season performance,True,,,0.07,"block percentage, prior season",fact_player_season_stats
+x3p_ar_l1,prior-season performance,False,x3pa_36_l1,0.923,0.079,"three point attempt rate, prior season",fact_player_season_stats
+f_tr_l1,prior-season performance,True,,,0.118,"free throw attempt rate, prior season",fact_player_season_stats
+pts_36_adj_l1,era-adjusted prior-season rates,False,pts_36_avg2,0.934,0.501,"points per 36 minutes minus the season average of qualified players, prior season",fact_player_season_stats
+trb_36_adj_l1,era-adjusted prior-season rates,False,trb_36_l1,0.998,0.114,"rebounds per 36 minutes minus the season average, prior season",fact_player_season_stats
+ast_36_adj_l1,era-adjusted prior-season rates,False,ast_percent_l1,0.987,0.211,"assists per 36 minutes minus the season average, prior season",fact_player_season_stats
+x3pa_36_adj_l1,era-adjusted prior-season rates,False,x3pa_36_l1,0.904,0.06,"three point attempts per 36 minutes minus the season average, prior season",fact_player_season_stats
+ts_percent_adj_l1,era-adjusted prior-season rates,False,ts_percent_l1,0.921,0.239,"true shooting percentage minus the season average, prior season",fact_player_season_stats
+g_share_avg2,two-season history and trend,True,,,0.281,"games played as a share of the most games any player logged that season (availability proxy), average of the two prior seasons",fact_player_season_stats
+mp_avg2,two-season history and trend,True,,,0.568,"minutes played, average of the two prior seasons",fact_player_season_stats
+pts_36_avg2,two-season history and trend,True,,,0.539,"points per 36 minutes, average of the two prior seasons",fact_player_season_stats
+ts_percent_avg2,two-season history and trend,True,,,0.302,"true shooting percentage, average of the two prior seasons",fact_player_season_stats
+usg_percent_avg2,two-season history and trend,False,pts_36_avg2,0.916,0.467,"usage percentage, average of the two prior seasons",fact_player_season_stats
+per_avg2,two-season history and trend,True,,,0.573,"player efficiency rating, average of the two prior seasons",fact_player_season_stats
+ws_avg2,two-season history and trend,True,,,0.619,"win shares, average of the two prior seasons",fact_player_season_stats
+ws_48_avg2,two-season history and trend,True,,,0.444,"win shares per 48 minutes, average of the two prior seasons",fact_player_season_stats
+bpm_avg2,two-season history and trend,True,,,0.567,"box plus-minus, average of the two prior seasons",fact_player_season_stats
+vorp_avg2,two-season history and trend,False,ws_avg2,0.92,0.605,"value over replacement player, average of the two prior seasons",fact_player_season_stats
+bpm_trend,two-season history and trend,True,,,0.053,"box plus-minus, prior season minus two seasons back (0 if no earlier row)",fact_player_season_stats
+ws_trend,two-season history and trend,True,,,0.053,"win shares, prior season minus two seasons back (0 if no earlier row)",fact_player_season_stats
+vorp_trend,two-season history and trend,True,,,0.041,"value over replacement player, prior season minus two seasons back (0 if no earlier row)",fact_player_season_stats
+per_trend,two-season history and trend,True,,,0.037,"player efficiency rating, prior season minus two seasons back (0 if no earlier row)",fact_player_season_stats
+has_l2,two-season history and trend,True,,,0.279,1 if the player also has a statistics row two seasons back,fact_player_season_stats
+career_g,career to date,True,,,0.409,career games through the prior season (1996 onward),fact_player_season_stats
+career_mp,career to date,False,career_ws,0.914,0.499,career minutes through the prior season (1996 onward),fact_player_season_stats
+career_ws,career to date,True,,,0.528,career win shares through the prior season (1996 onward),fact_player_season_stats
+career_vorp,career to date,False,career_ws,0.945,0.51,career value over replacement player through the prior season (1996 onward),fact_player_season_stats
+peak_bpm,career to date,True,,,0.578,"best single-season box plus-minus so far, seasons with at least 200 minutes",fact_player_season_stats
+all_star_l1,honors,True,,,0.437,1 if an All-Star in the prior season,"all_star_selections, end_of_season_teams"
+all_nba_l1,honors,True,,,0.363,1 if All-NBA in the prior season,"all_star_selections, end_of_season_teams"
+all_def_l1,honors,True,,,0.221,1 if All-Defense in the prior season,"all_star_selections, end_of_season_teams"
+all_star_count_prior,honors,True,,,0.445,All-Star selections through the prior season,"all_star_selections, end_of_season_teams"
+all_nba_count_prior,honors,False,all_star_count_prior,0.919,0.394,All-NBA selections through the prior season,"all_star_selections, end_of_season_teams"
+all_def_count_prior,honors,True,,,0.279,All-Defense selections through the prior season,"all_star_selections, end_of_season_teams"
+cap_usd,context,True,,,0.173,league salary cap for the salary season (context for eras),external cap history (RealGM)

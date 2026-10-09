@@ -1,0 +1,2059 @@
+player,player_id,team,season,lg,replaced,weight
+Scottie Barnes,barnesc01,Team Stars,2026,NBA,f,237
+Devin Booker,bookede01,Team Stars,2026,NBA,f,206
+Cade Cunningham,cunnica01,Team Stars,2026,NBA,f,220
+Jalen Duren,durenja01,Team Stars,2026,NBA,f,250
+Anthony Edwards,edwaran01,Team Stars,2026,NBA,f,225
+Chet Holmgren,holmgch01,Team Stars,2026,NBA,f,208
+Jalen Johnson,johnsja05,Team Stars,2026,NBA,f,219
+Tyrese Maxey,maxeyty01,Team Stars,2026,NBA,f,200
+Jaylen Brown,brownja02,Team Stripes,2026,NBA,f,223
+Jalen Brunson,brunsja01,Team Stripes,2026,NBA,f,190
+Stephen Curry,curryst01,Team Stripes,2026,NBA,t,185
+Kevin Durant,duranke01,Team Stripes,2026,NBA,f,240
+De'Aaron Fox,foxde01,Team Stripes,2026,NBA,f,185
+Brandon Ingram,ingrabr01,Team Stripes,2026,NBA,f,190
+LeBron James,jamesle01,Team Stripes,2026,NBA,f,250
+Kawhi Leonard,leonaka01,Team Stripes,2026,NBA,f,225
+Donovan Mitchell,mitchdo01,Team Stripes,2026,NBA,f,215
+Giannis Antetokounmpo,antetgi01,Team World,2026,NBA,t,243
+Deni Avdija,avdijde01,Team World,2026,NBA,f,228
+Luka Dončić,doncilu01,Team World,2026,NBA,f,230
+Shai Gilgeous-Alexander,gilgesh01,Team World,2026,NBA,t,195
+Nikola Jokić,jokicni01,Team World,2026,NBA,f,284
+Jamal Murray,murraja01,Team World,2026,NBA,f,215
+Norman Powell,powelno01,Team World,2026,NBA,f,215
+Alperen Şengün,sengual01,Team World,2026,NBA,f,243
+Pascal Siakam,siakapa01,Team World,2026,NBA,f,245
+Karl-Anthony Towns,townska01,Team World,2026,NBA,f,248
+Victor Wembanyama,wembavi01,Team World,2026,NBA,f,235
+Giannis Antetokounmpo,antetgi01,Team Chuck,2025,NBA,t,243
+Shai Gilgeous-Alexander,gilgesh01,Team Chuck,2025,NBA,f,195
+Nikola Jokić,jokicni01,Team Chuck,2025,NBA,f,284
+Donovan Mitchell,mitchdo01,Team Chuck,2025,NBA,f,215
+Alperen Şengün,sengual01,Team Chuck,2025,NBA,f,243
+Pascal Siakam,siakapa01,Team Chuck,2025,NBA,f,245
+Karl-Anthony Towns,townska01,Team Chuck,2025,NBA,f,248
+Victor Wembanyama,wembavi01,Team Chuck,2025,NBA,f,235
+Trae Young,youngtr01,Team Chuck,2025,NBA,f,164
+Jalen Brunson,brunsja01,Team Kenny,2025,NBA,f,190
+Cade Cunningham,cunnica01,Team Kenny,2025,NBA,f,220
+Anthony Edwards,edwaran01,Team Kenny,2025,NBA,t,225
+Darius Garland,garlada01,Team Kenny,2025,NBA,f,192
+Tyler Herro,herroty01,Team Kenny,2025,NBA,f,195
+Jaren Jackson Jr.,jacksja02,Team Kenny,2025,NBA,f,242
+Evan Mobley,mobleev01,Team Kenny,2025,NBA,f,215
+Jalen Williams,willija06,Team Kenny,2025,NBA,f,211
+Jaylen Brown,brownja02,Team Shaq,2025,NBA,f,223
+Stephen Curry,curryst01,Team Shaq,2025,NBA,f,185
+Anthony Davis,davisan02,Team Shaq,2025,NBA,t,253
+Kevin Durant,duranke01,Team Shaq,2025,NBA,f,240
+James Harden,hardeja01,Team Shaq,2025,NBA,f,220
+Kyrie Irving,irvinky01,Team Shaq,2025,NBA,f,195
+LeBron James,jamesle01,Team Shaq,2025,NBA,t,250
+Damian Lillard,lillada01,Team Shaq,2025,NBA,f,200
+Jayson Tatum,tatumja01,Team Shaq,2025,NBA,f,210
+Bam Adebayo,adebaba01,East,2024,NBA,f,255
+Giannis Antetokounmpo,antetgi01,East,2024,NBA,f,243
+Paolo Banchero,banchpa01,East,2024,NBA,f,250
+Scottie Barnes,barnesc01,East,2024,NBA,f,237
+Jaylen Brown,brownja02,East,2024,NBA,f,223
+Jalen Brunson,brunsja01,East,2024,NBA,f,190
+Joel Embiid,embiijo01,East,2024,NBA,t,280
+Tyrese Haliburton,halibty01,East,2024,NBA,f,185
+Damian Lillard,lillada01,East,2024,NBA,f,200
+Tyrese Maxey,maxeyty01,East,2024,NBA,f,200
+Donovan Mitchell,mitchdo01,East,2024,NBA,f,215
+Julius Randle,randlju01,East,2024,NBA,t,250
+Jayson Tatum,tatumja01,East,2024,NBA,f,210
+Trae Young,youngtr01,East,2024,NBA,f,164
+Devin Booker,bookede01,West,2024,NBA,f,206
+Stephen Curry,curryst01,West,2024,NBA,f,185
+Anthony Davis,davisan02,West,2024,NBA,f,253
+Luka Dončić,doncilu01,West,2024,NBA,f,230
+Kevin Durant,duranke01,West,2024,NBA,f,240
+Anthony Edwards,edwaran01,West,2024,NBA,f,225
+Paul George,georgpa01,West,2024,NBA,f,220
+Shai Gilgeous-Alexander,gilgesh01,West,2024,NBA,f,195
+LeBron James,jamesle01,West,2024,NBA,f,250
+Nikola Jokić,jokicni01,West,2024,NBA,f,284
+Kawhi Leonard,leonaka01,West,2024,NBA,f,225
+Karl-Anthony Towns,townska01,West,2024,NBA,f,248
+Bam Adebayo,adebaba01,Giannis,2023,NBA,f,255
+Giannis Antetokounmpo,antetgi01,Giannis,2023,NBA,f,243
+DeMar DeRozan,derozde01,Giannis,2023,NBA,f,220
+Kevin Durant,duranke01,Giannis,2023,NBA,t,240
+Shai Gilgeous-Alexander,gilgesh01,Giannis,2023,NBA,f,195
+Jrue Holiday,holidjr01,Giannis,2023,NBA,f,220
+Damian Lillard,lillada01,Giannis,2023,NBA,f,200
+Lauri Markkanen,markkla01,Giannis,2023,NBA,f,240
+Donovan Mitchell,mitchdo01,Giannis,2023,NBA,f,215
+Ja Morant,moranja01,Giannis,2023,NBA,f,174
+Domantas Sabonis,sabondo01,Giannis,2023,NBA,f,240
+Pascal Siakam,siakapa01,Giannis,2023,NBA,f,245
+Jayson Tatum,tatumja01,Giannis,2023,NBA,f,210
+Jaylen Brown,brownja02,LeBron,2023,NBA,f,223
+Stephen Curry,curryst01,LeBron,2023,NBA,t,185
+Luka Dončić,doncilu01,LeBron,2023,NBA,f,230
+Anthony Edwards,edwaran01,LeBron,2023,NBA,f,225
+Joel Embiid,embiijo01,LeBron,2023,NBA,f,280
+De'Aaron Fox,foxde01,LeBron,2023,NBA,f,185
+Paul George,georgpa01,LeBron,2023,NBA,f,220
+Tyrese Haliburton,halibty01,LeBron,2023,NBA,f,185
+Kyrie Irving,irvinky01,LeBron,2023,NBA,f,195
+Jaren Jackson Jr.,jacksja02,LeBron,2023,NBA,f,242
+LeBron James,jamesle01,LeBron,2023,NBA,f,250
+Nikola Jokić,jokicni01,LeBron,2023,NBA,f,284
+Julius Randle,randlju01,LeBron,2023,NBA,f,250
+Zion Williamson,willizi01,LeBron,2023,NBA,t,284
+LaMelo Ball,ballla01,Team Durant,2022,NBA,f,180
+Devin Booker,bookede01,Team Durant,2022,NBA,f,206
+Kevin Durant,duranke01,Team Durant,2022,NBA,t,240
+Joel Embiid,embiijo01,Team Durant,2022,NBA,f,280
+Rudy Gobert,goberru01,Team Durant,2022,NBA,f,258
+Draymond Green,greendr01,Team Durant,2022,NBA,t,230
+Zach LaVine,lavinza01,Team Durant,2022,NBA,f,200
+Khris Middleton,middlkh01,Team Durant,2022,NBA,f,222
+Ja Morant,moranja01,Team Durant,2022,NBA,f,174
+Dejounte Murray,murrade01,Team Durant,2022,NBA,f,180
+Jayson Tatum,tatumja01,Team Durant,2022,NBA,f,210
+Karl-Anthony Towns,townska01,Team Durant,2022,NBA,f,248
+Andrew Wiggins,wiggian01,Team Durant,2022,NBA,f,197
+Trae Young,youngtr01,Team Durant,2022,NBA,f,164
+Jarrett Allen,allenja01,Team LeBron,2022,NBA,f,243
+Giannis Antetokounmpo,antetgi01,Team LeBron,2022,NBA,f,243
+Jimmy Butler,butleji01,Team LeBron,2022,NBA,f,230
+Stephen Curry,curryst01,Team LeBron,2022,NBA,f,185
+DeMar DeRozan,derozde01,Team LeBron,2022,NBA,f,220
+Luka Dončić,doncilu01,Team LeBron,2022,NBA,f,230
+Darius Garland,garlada01,Team LeBron,2022,NBA,f,192
+James Harden,hardeja01,Team LeBron,2022,NBA,t,220
+LeBron James,jamesle01,Team LeBron,2022,NBA,f,250
+Nikola Jokić,jokicni01,Team LeBron,2022,NBA,f,284
+Donovan Mitchell,mitchdo01,Team LeBron,2022,NBA,t,215
+Chris Paul,paulch01,Team LeBron,2022,NBA,f,175
+Fred VanVleet,vanvlfr01,Team LeBron,2022,NBA,f,197
+Bradley Beal,bealbr01,Team Durant,2021,NBA,f,207
+Devin Booker,bookede01,Team Durant,2021,NBA,t,206
+Mike Conley,conlemi01,Team Durant,2021,NBA,f,175
+Anthony Davis,davisan02,Team Durant,2021,NBA,t,253
+Kevin Durant,duranke01,Team Durant,2021,NBA,t,240
+Joel Embiid,embiijo01,Team Durant,2021,NBA,t,280
+James Harden,hardeja01,Team Durant,2021,NBA,f,220
+Kyrie Irving,irvinky01,Team Durant,2021,NBA,f,195
+Zach LaVine,lavinza01,Team Durant,2021,NBA,f,200
+Kawhi Leonard,leonaka01,Team Durant,2021,NBA,f,225
+Donovan Mitchell,mitchdo01,Team Durant,2021,NBA,f,215
+Julius Randle,randlju01,Team Durant,2021,NBA,f,250
+Jayson Tatum,tatumja01,Team Durant,2021,NBA,f,210
+Nikola Vučević,vucevni01,Team Durant,2021,NBA,f,260
+Zion Williamson,willizi01,Team Durant,2021,NBA,f,284
+Giannis Antetokounmpo,antetgi01,Team LeBron,2021,NBA,f,243
+Jaylen Brown,brownja02,Team LeBron,2021,NBA,f,223
+Stephen Curry,curryst01,Team LeBron,2021,NBA,f,185
+Luka Dončić,doncilu01,Team LeBron,2021,NBA,f,230
+Paul George,georgpa01,Team LeBron,2021,NBA,f,220
+Rudy Gobert,goberru01,Team LeBron,2021,NBA,f,258
+LeBron James,jamesle01,Team LeBron,2021,NBA,f,250
+Nikola Jokić,jokicni01,Team LeBron,2021,NBA,f,284
+Damian Lillard,lillada01,Team LeBron,2021,NBA,f,200
+Chris Paul,paulch01,Team LeBron,2021,NBA,f,175
+Domantas Sabonis,sabondo01,Team LeBron,2021,NBA,f,240
+Ben Simmons,simmobe01,Team LeBron,2021,NBA,t,240
+Bam Adebayo,adebaba01,Team Giannis,2020,NBA,f,255
+Giannis Antetokounmpo,antetgi01,Team Giannis,2020,NBA,f,243
+Jimmy Butler,butleji01,Team Giannis,2020,NBA,f,230
+Joel Embiid,embiijo01,Team Giannis,2020,NBA,f,280
+Rudy Gobert,goberru01,Team Giannis,2020,NBA,f,258
+Brandon Ingram,ingrabr01,Team Giannis,2020,NBA,f,190
+Kyle Lowry,lowryky01,Team Giannis,2020,NBA,f,196
+Khris Middleton,middlkh01,Team Giannis,2020,NBA,f,222
+Donovan Mitchell,mitchdo01,Team Giannis,2020,NBA,f,215
+Pascal Siakam,siakapa01,Team Giannis,2020,NBA,f,245
+Kemba Walker,walkeke02,Team Giannis,2020,NBA,f,184
+Trae Young,youngtr01,Team Giannis,2020,NBA,f,164
+Devin Booker,bookede01,Team LeBron,2020,NBA,f,206
+Anthony Davis,davisan02,Team LeBron,2020,NBA,f,253
+Luka Dončić,doncilu01,Team LeBron,2020,NBA,f,230
+James Harden,hardeja01,Team LeBron,2020,NBA,f,220
+LeBron James,jamesle01,Team LeBron,2020,NBA,f,250
+Nikola Jokić,jokicni01,Team LeBron,2020,NBA,f,284
+Kawhi Leonard,leonaka01,Team LeBron,2020,NBA,f,225
+Damian Lillard,lillada01,Team LeBron,2020,NBA,t,200
+Chris Paul,paulch01,Team LeBron,2020,NBA,f,175
+Domantas Sabonis,sabondo01,Team LeBron,2020,NBA,f,240
+Ben Simmons,simmobe01,Team LeBron,2020,NBA,f,240
+Jayson Tatum,tatumja01,Team LeBron,2020,NBA,f,210
+Russell Westbrook,westbru01,Team LeBron,2020,NBA,f,200
+Giannis Antetokounmpo,antetgi01,Team Giannis,2019,NBA,f,243
+Stephen Curry,curryst01,Team Giannis,2019,NBA,f,185
+Joel Embiid,embiijo01,Team Giannis,2019,NBA,f,280
+Paul George,georgpa01,Team Giannis,2019,NBA,f,220
+Blake Griffin,griffbl01,Team Giannis,2019,NBA,f,250
+Nikola Jokić,jokicni01,Team Giannis,2019,NBA,f,284
+Kyle Lowry,lowryky01,Team Giannis,2019,NBA,f,196
+Khris Middleton,middlkh01,Team Giannis,2019,NBA,f,222
+Dirk Nowitzki,nowitdi01,Team Giannis,2019,NBA,f,245
+Victor Oladipo,oladivi01,Team Giannis,2019,NBA,t,213
+D'Angelo Russell,russeda01,Team Giannis,2019,NBA,f,193
+Nikola Vučević,vucevni01,Team Giannis,2019,NBA,f,260
+Kemba Walker,walkeke02,Team Giannis,2019,NBA,f,184
+Russell Westbrook,westbru01,Team Giannis,2019,NBA,f,200
+LaMarcus Aldridge,aldrila01,Team LeBron,2019,NBA,f,250
+Bradley Beal,bealbr01,Team LeBron,2019,NBA,f,207
+Anthony Davis,davisan02,Team LeBron,2019,NBA,f,253
+Kevin Durant,duranke01,Team LeBron,2019,NBA,f,240
+James Harden,hardeja01,Team LeBron,2019,NBA,f,220
+Kyrie Irving,irvinky01,Team LeBron,2019,NBA,f,195
+LeBron James,jamesle01,Team LeBron,2019,NBA,f,250
+Kawhi Leonard,leonaka01,Team LeBron,2019,NBA,f,225
+Damian Lillard,lillada01,Team LeBron,2019,NBA,f,200
+Ben Simmons,simmobe01,Team LeBron,2019,NBA,f,240
+Klay Thompson,thompkl01,Team LeBron,2019,NBA,f,220
+Karl-Anthony Towns,townska01,Team LeBron,2019,NBA,f,248
+Dwyane Wade,wadedw01,Team LeBron,2019,NBA,f,220
+LaMarcus Aldridge,aldrila01,Team LeBron,2018,NBA,f,250
+Bradley Beal,bealbr01,Team LeBron,2018,NBA,f,207
+DeMarcus Cousins,couside01,Team LeBron,2018,NBA,t,270
+Anthony Davis,davisan02,Team LeBron,2018,NBA,f,253
+Goran Dragić,dragigo01,Team LeBron,2018,NBA,f,190
+Andre Drummond,drumman01,Team LeBron,2018,NBA,f,279
+Kevin Durant,duranke01,Team LeBron,2018,NBA,f,240
+Paul George,georgpa01,Team LeBron,2018,NBA,f,220
+Kyrie Irving,irvinky01,Team LeBron,2018,NBA,f,195
+LeBron James,jamesle01,Team LeBron,2018,NBA,f,250
+Kevin Love,loveke01,Team LeBron,2018,NBA,t,251
+Victor Oladipo,oladivi01,Team LeBron,2018,NBA,f,213
+Kristaps Porziņģis,porzikr01,Team LeBron,2018,NBA,t,240
+Kemba Walker,walkeke02,Team LeBron,2018,NBA,f,184
+John Wall,walljo01,Team LeBron,2018,NBA,t,210
+Russell Westbrook,westbru01,Team LeBron,2018,NBA,f,200
+Giannis Antetokounmpo,antetgi01,Team Stephen,2018,NBA,f,243
+Jimmy Butler,butleji01,Team Stephen,2018,NBA,t,230
+Stephen Curry,curryst01,Team Stephen,2018,NBA,f,185
+DeMar DeRozan,derozde01,Team Stephen,2018,NBA,f,220
+Joel Embiid,embiijo01,Team Stephen,2018,NBA,f,280
+Draymond Green,greendr01,Team Stephen,2018,NBA,f,230
+James Harden,hardeja01,Team Stephen,2018,NBA,f,220
+Al Horford,horfoal01,Team Stephen,2018,NBA,f,240
+Damian Lillard,lillada01,Team Stephen,2018,NBA,f,200
+Kyle Lowry,lowryky01,Team Stephen,2018,NBA,f,196
+Klay Thompson,thompkl01,Team Stephen,2018,NBA,f,220
+Karl-Anthony Towns,townska01,Team Stephen,2018,NBA,f,248
+Giannis Antetokounmpo,antetgi01,East,2017,NBA,f,243
+Carmelo Anthony,anthoca01,East,2017,NBA,f,238
+Jimmy Butler,butleji01,East,2017,NBA,f,230
+DeMar DeRozan,derozde01,East,2017,NBA,f,220
+Paul George,georgpa01,East,2017,NBA,f,220
+Kyrie Irving,irvinky01,East,2017,NBA,f,195
+LeBron James,jamesle01,East,2017,NBA,f,250
+Kevin Love,loveke01,East,2017,NBA,t,251
+Kyle Lowry,lowryky01,East,2017,NBA,f,196
+Paul Millsap,millspa01,East,2017,NBA,f,257
+Isaiah Thomas,thomais02,East,2017,NBA,f,185
+Kemba Walker,walkeke02,East,2017,NBA,f,184
+John Wall,walljo01,East,2017,NBA,f,210
+DeMarcus Cousins,couside01,West,2017,NBA,f,270
+Stephen Curry,curryst01,West,2017,NBA,f,185
+Anthony Davis,davisan02,West,2017,NBA,f,253
+Kevin Durant,duranke01,West,2017,NBA,f,240
+Marc Gasol,gasolma01,West,2017,NBA,f,255
+Draymond Green,greendr01,West,2017,NBA,f,230
+James Harden,hardeja01,West,2017,NBA,f,220
+Gordon Hayward,haywago01,West,2017,NBA,f,225
+DeAndre Jordan,jordade01,West,2017,NBA,f,265
+Kawhi Leonard,leonaka01,West,2017,NBA,f,225
+Klay Thompson,thompkl01,West,2017,NBA,f,220
+Russell Westbrook,westbru01,West,2017,NBA,f,200
+Carmelo Anthony,anthoca01,East,2016,NBA,f,238
+Chris Bosh,boshch01,East,2016,NBA,t,235
+Jimmy Butler,butleji01,East,2016,NBA,t,230
+DeMar DeRozan,derozde01,East,2016,NBA,f,220
+Andre Drummond,drumman01,East,2016,NBA,f,279
+Pau Gasol,gasolpa01,East,2016,NBA,f,250
+Paul George,georgpa01,East,2016,NBA,f,220
+Al Horford,horfoal01,East,2016,NBA,f,240
+LeBron James,jamesle01,East,2016,NBA,f,250
+Kyle Lowry,lowryky01,East,2016,NBA,f,196
+Paul Millsap,millspa01,East,2016,NBA,f,257
+Isaiah Thomas,thomais02,East,2016,NBA,f,185
+Dwyane Wade,wadedw01,East,2016,NBA,f,220
+John Wall,walljo01,East,2016,NBA,f,210
+LaMarcus Aldridge,aldrila01,West,2016,NBA,f,250
+Kobe Bryant,bryanko01,West,2016,NBA,f,212
+DeMarcus Cousins,couside01,West,2016,NBA,f,270
+Stephen Curry,curryst01,West,2016,NBA,f,185
+Anthony Davis,davisan02,West,2016,NBA,f,253
+Kevin Durant,duranke01,West,2016,NBA,f,240
+Draymond Green,greendr01,West,2016,NBA,f,230
+James Harden,hardeja01,West,2016,NBA,f,220
+Kawhi Leonard,leonaka01,West,2016,NBA,f,225
+Chris Paul,paulch01,West,2016,NBA,f,175
+Klay Thompson,thompkl01,West,2016,NBA,f,220
+Russell Westbrook,westbru01,West,2016,NBA,f,200
+Carmelo Anthony,anthoca01,East,2015,NBA,f,238
+Chris Bosh,boshch01,East,2015,NBA,f,235
+Jimmy Butler,butleji01,East,2015,NBA,f,230
+Pau Gasol,gasolpa01,East,2015,NBA,f,250
+Al Horford,horfoal01,East,2015,NBA,f,240
+Kyrie Irving,irvinky01,East,2015,NBA,f,195
+LeBron James,jamesle01,East,2015,NBA,f,250
+Kyle Korver,korveky01,East,2015,NBA,f,212
+Kyle Lowry,lowryky01,East,2015,NBA,f,196
+Paul Millsap,millspa01,East,2015,NBA,f,257
+Jeff Teague,teaguje01,East,2015,NBA,f,195
+Dwyane Wade,wadedw01,East,2015,NBA,t,220
+John Wall,walljo01,East,2015,NBA,f,210
+LaMarcus Aldridge,aldrila01,West,2015,NBA,f,250
+Kobe Bryant,bryanko01,West,2015,NBA,t,212
+DeMarcus Cousins,couside01,West,2015,NBA,f,270
+Stephen Curry,curryst01,West,2015,NBA,f,185
+Anthony Davis,davisan02,West,2015,NBA,t,253
+Tim Duncan,duncati01,West,2015,NBA,f,250
+Kevin Durant,duranke01,West,2015,NBA,f,240
+Marc Gasol,gasolma01,West,2015,NBA,f,255
+Blake Griffin,griffbl01,West,2015,NBA,t,250
+James Harden,hardeja01,West,2015,NBA,f,220
+Damian Lillard,lillada01,West,2015,NBA,f,200
+Dirk Nowitzki,nowitdi01,West,2015,NBA,f,245
+Chris Paul,paulch01,West,2015,NBA,f,175
+Klay Thompson,thompkl01,West,2015,NBA,f,220
+Russell Westbrook,westbru01,West,2015,NBA,f,200
+Carmelo Anthony,anthoca01,East,2014,NBA,f,238
+Chris Bosh,boshch01,East,2014,NBA,f,235
+DeMar DeRozan,derozde01,East,2014,NBA,f,220
+Paul George,georgpa01,East,2014,NBA,f,220
+Roy Hibbert,hibbero01,East,2014,NBA,f,270
+Kyrie Irving,irvinky01,East,2014,NBA,f,195
+LeBron James,jamesle01,East,2014,NBA,f,250
+Joe Johnson,johnsjo02,East,2014,NBA,f,240
+Paul Millsap,millspa01,East,2014,NBA,f,257
+Joakim Noah,noahjo01,East,2014,NBA,f,230
+Dwyane Wade,wadedw01,East,2014,NBA,f,220
+John Wall,walljo01,East,2014,NBA,f,210
+LaMarcus Aldridge,aldrila01,West,2014,NBA,f,250
+Kobe Bryant,bryanko01,West,2014,NBA,t,212
+Stephen Curry,curryst01,West,2014,NBA,f,185
+Anthony Davis,davisan02,West,2014,NBA,f,253
+Kevin Durant,duranke01,West,2014,NBA,f,240
+Blake Griffin,griffbl01,West,2014,NBA,f,250
+James Harden,hardeja01,West,2014,NBA,f,220
+Dwight Howard,howardw01,West,2014,NBA,f,265
+Damian Lillard,lillada01,West,2014,NBA,f,200
+Kevin Love,loveke01,West,2014,NBA,f,251
+Dirk Nowitzki,nowitdi01,West,2014,NBA,f,245
+Tony Parker,parketo01,West,2014,NBA,f,185
+Chris Paul,paulch01,West,2014,NBA,f,175
+Carmelo Anthony,anthoca01,East,2013,NBA,f,238
+Chris Bosh,boshch01,East,2013,NBA,f,235
+Tyson Chandler,chandty01,East,2013,NBA,f,235
+Luol Deng,denglu01,East,2013,NBA,f,237
+Kevin Garnett,garneke01,East,2013,NBA,f,240
+Paul George,georgpa01,East,2013,NBA,f,220
+Jrue Holiday,holidjr01,East,2013,NBA,f,220
+Kyrie Irving,irvinky01,East,2013,NBA,f,195
+LeBron James,jamesle01,East,2013,NBA,f,250
+Brook Lopez,lopezbr01,East,2013,NBA,t,282
+Joakim Noah,noahjo01,East,2013,NBA,f,230
+Rajon Rondo,rondora01,East,2013,NBA,t,180
+Dwyane Wade,wadedw01,East,2013,NBA,f,220
+LaMarcus Aldridge,aldrila01,West,2013,NBA,f,250
+Kobe Bryant,bryanko01,West,2013,NBA,f,212
+Tim Duncan,duncati01,West,2013,NBA,f,250
+Kevin Durant,duranke01,West,2013,NBA,f,240
+Blake Griffin,griffbl01,West,2013,NBA,f,250
+James Harden,hardeja01,West,2013,NBA,f,220
+Dwight Howard,howardw01,West,2013,NBA,f,265
+David Lee,leeda02,West,2013,NBA,f,245
+Tony Parker,parketo01,West,2013,NBA,f,185
+Chris Paul,paulch01,West,2013,NBA,f,175
+Zach Randolph,randoza01,West,2013,NBA,f,250
+Russell Westbrook,westbru01,West,2013,NBA,f,200
+Carmelo Anthony,anthoca01,East,2012,NBA,f,238
+Chris Bosh,boshch01,East,2012,NBA,f,235
+Luol Deng,denglu01,East,2012,NBA,f,237
+Roy Hibbert,hibbero01,East,2012,NBA,f,270
+Dwight Howard,howardw01,East,2012,NBA,f,265
+Andre Iguodala,iguodan01,East,2012,NBA,f,215
+LeBron James,jamesle01,East,2012,NBA,f,250
+Joe Johnson,johnsjo02,East,2012,NBA,t,240
+Paul Pierce,piercpa01,East,2012,NBA,f,235
+Rajon Rondo,rondora01,East,2012,NBA,t,180
+Derrick Rose,rosede01,East,2012,NBA,f,200
+Dwyane Wade,wadedw01,East,2012,NBA,f,220
+Deron Williams,willide01,East,2012,NBA,f,200
+LaMarcus Aldridge,aldrila01,West,2012,NBA,f,250
+Kobe Bryant,bryanko01,West,2012,NBA,f,212
+Andrew Bynum,bynuman01,West,2012,NBA,f,285
+Kevin Durant,duranke01,West,2012,NBA,f,240
+Marc Gasol,gasolma01,West,2012,NBA,f,255
+Blake Griffin,griffbl01,West,2012,NBA,f,250
+Kevin Love,loveke01,West,2012,NBA,f,251
+Steve Nash,nashst01,West,2012,NBA,f,195
+Dirk Nowitzki,nowitdi01,West,2012,NBA,f,245
+Tony Parker,parketo01,West,2012,NBA,f,185
+Chris Paul,paulch01,West,2012,NBA,f,175
+Russell Westbrook,westbru01,West,2012,NBA,f,200
+Ray Allen,allenra02,East,2011,NBA,f,205
+Chris Bosh,boshch01,East,2011,NBA,f,235
+Kevin Garnett,garneke01,East,2011,NBA,f,240
+Al Horford,horfoal01,East,2011,NBA,f,240
+Dwight Howard,howardw01,East,2011,NBA,f,265
+LeBron James,jamesle01,East,2011,NBA,f,250
+Joe Johnson,johnsjo02,East,2011,NBA,f,240
+Paul Pierce,piercpa01,East,2011,NBA,f,235
+Rajon Rondo,rondora01,East,2011,NBA,f,180
+Derrick Rose,rosede01,East,2011,NBA,f,200
+Amar'e Stoudemire,stoudam01,East,2011,NBA,f,245
+Dwyane Wade,wadedw01,East,2011,NBA,f,220
+Carmelo Anthony,anthoca01,West,2011,NBA,f,238
+Kobe Bryant,bryanko01,West,2011,NBA,f,212
+Tim Duncan,duncati01,West,2011,NBA,f,250
+Kevin Durant,duranke01,West,2011,NBA,f,240
+Pau Gasol,gasolpa01,West,2011,NBA,f,250
+Manu Ginóbili,ginobma01,West,2011,NBA,f,205
+Blake Griffin,griffbl01,West,2011,NBA,f,250
+Kevin Love,loveke01,West,2011,NBA,t,251
+Yao Ming,mingya01,West,2011,NBA,t,310
+Dirk Nowitzki,nowitdi01,West,2011,NBA,f,245
+Chris Paul,paulch01,West,2011,NBA,f,175
+Russell Westbrook,westbru01,West,2011,NBA,f,200
+Deron Williams,willide01,West,2011,NBA,f,200
+Chris Bosh,boshch01,East,2010,NBA,f,235
+Kevin Garnett,garneke01,East,2010,NBA,f,240
+Al Horford,horfoal01,East,2010,NBA,f,240
+Dwight Howard,howardw01,East,2010,NBA,f,265
+Allen Iverson,iversal01,East,2010,NBA,t,165
+LeBron James,jamesle01,East,2010,NBA,f,250
+Joe Johnson,johnsjo02,East,2010,NBA,f,240
+David Lee,leeda02,East,2010,NBA,t,245
+Paul Pierce,piercpa01,East,2010,NBA,f,235
+Rajon Rondo,rondora01,East,2010,NBA,f,180
+Derrick Rose,rosede01,East,2010,NBA,f,200
+Dwyane Wade,wadedw01,East,2010,NBA,f,220
+Gerald Wallace,wallage01,East,2010,NBA,f,215
+Carmelo Anthony,anthoca01,West,2010,NBA,f,238
+Chauncey Billups,billuch01,West,2010,NBA,t,202
+Kobe Bryant,bryanko01,West,2010,NBA,t,212
+Tim Duncan,duncati01,West,2010,NBA,f,250
+Kevin Durant,duranke01,West,2010,NBA,f,240
+Pau Gasol,gasolpa01,West,2010,NBA,f,250
+Chris Kaman,kamanch01,West,2010,NBA,t,265
+Jason Kidd,kiddja01,West,2010,NBA,t,205
+Steve Nash,nashst01,West,2010,NBA,f,195
+Dirk Nowitzki,nowitdi01,West,2010,NBA,f,245
+Chris Paul,paulch01,West,2010,NBA,t,175
+Zach Randolph,randoza01,West,2010,NBA,f,250
+Brandon Roy,roybr01,West,2010,NBA,t,215
+Amar'e Stoudemire,stoudam01,West,2010,NBA,f,245
+Deron Williams,willide01,West,2010,NBA,f,200
+Ray Allen,allenra02,East,2009,NBA,f,205
+Chris Bosh,boshch01,East,2009,NBA,t,235
+Kevin Garnett,garneke01,East,2009,NBA,f,240
+Danny Granger,grangda01,East,2009,NBA,f,222
+Devin Harris,harride01,East,2009,NBA,f,185
+Dwight Howard,howardw01,East,2009,NBA,f,265
+Allen Iverson,iversal01,East,2009,NBA,f,165
+LeBron James,jamesle01,East,2009,NBA,f,250
+Joe Johnson,johnsjo02,East,2009,NBA,f,240
+Rashard Lewis,lewisra02,East,2009,NBA,f,215
+Jameer Nelson,nelsoja01,East,2009,NBA,t,190
+Paul Pierce,piercpa01,East,2009,NBA,f,235
+Dwyane Wade,wadedw01,East,2009,NBA,f,220
+Mo Williams,willima01,East,2009,NBA,t,198
+Chauncey Billups,billuch01,West,2009,NBA,f,202
+Kobe Bryant,bryanko01,West,2009,NBA,f,212
+Tim Duncan,duncati01,West,2009,NBA,f,250
+Pau Gasol,gasolpa01,West,2009,NBA,f,250
+Yao Ming,mingya01,West,2009,NBA,f,310
+Dirk Nowitzki,nowitdi01,West,2009,NBA,f,245
+Shaquille O'Neal,onealsh01,West,2009,NBA,f,325
+Tony Parker,parketo01,West,2009,NBA,f,185
+Chris Paul,paulch01,West,2009,NBA,f,175
+Brandon Roy,roybr01,West,2009,NBA,f,215
+Amar'e Stoudemire,stoudam01,West,2009,NBA,f,245
+David West,westda01,West,2009,NBA,f,250
+Ray Allen,allenra02,East,2008,NBA,t,205
+Chauncey Billups,billuch01,East,2008,NBA,f,202
+Chris Bosh,boshch01,East,2008,NBA,f,235
+Caron Butler,butleca01,East,2008,NBA,t,228
+Kevin Garnett,garneke01,East,2008,NBA,t,240
+Richard Hamilton,hamilri01,East,2008,NBA,f,185
+Dwight Howard,howardw01,East,2008,NBA,f,265
+LeBron James,jamesle01,East,2008,NBA,f,250
+Antawn Jamison,jamisan01,East,2008,NBA,f,223
+Joe Johnson,johnsjo02,East,2008,NBA,f,240
+Jason Kidd,kiddja01,East,2008,NBA,f,205
+Paul Pierce,piercpa01,East,2008,NBA,f,235
+Dwyane Wade,wadedw01,East,2008,NBA,f,220
+Rasheed Wallace,wallara01,East,2008,NBA,t,225
+Carmelo Anthony,anthoca01,West,2008,NBA,f,238
+Carlos Boozer,boozeca01,West,2008,NBA,f,258
+Kobe Bryant,bryanko01,West,2008,NBA,f,212
+Tim Duncan,duncati01,West,2008,NBA,f,250
+Allen Iverson,iversal01,West,2008,NBA,f,165
+Yao Ming,mingya01,West,2008,NBA,f,310
+Steve Nash,nashst01,West,2008,NBA,f,195
+Dirk Nowitzki,nowitdi01,West,2008,NBA,f,245
+Chris Paul,paulch01,West,2008,NBA,f,175
+Brandon Roy,roybr01,West,2008,NBA,f,215
+Amar'e Stoudemire,stoudam01,West,2008,NBA,f,245
+David West,westda01,West,2008,NBA,f,250
+Gilbert Arenas,arenagi01,East,2007,NBA,f,191
+Chauncey Billups,billuch01,East,2007,NBA,f,202
+Chris Bosh,boshch01,East,2007,NBA,f,235
+Caron Butler,butleca01,East,2007,NBA,f,228
+Vince Carter,cartevi01,East,2007,NBA,f,220
+Richard Hamilton,hamilri01,East,2007,NBA,f,185
+Dwight Howard,howardw01,East,2007,NBA,f,265
+LeBron James,jamesle01,East,2007,NBA,f,250
+Joe Johnson,johnsjo02,East,2007,NBA,t,240
+Jason Kidd,kiddja01,East,2007,NBA,t,205
+Jermaine O'Neal,onealje01,East,2007,NBA,f,226
+Shaquille O'Neal,onealsh01,East,2007,NBA,f,325
+Dwyane Wade,wadedw01,East,2007,NBA,f,220
+Ray Allen,allenra02,West,2007,NBA,t,205
+Carmelo Anthony,anthoca01,West,2007,NBA,t,238
+Carlos Boozer,boozeca01,West,2007,NBA,t,258
+Kobe Bryant,bryanko01,West,2007,NBA,f,212
+Tim Duncan,duncati01,West,2007,NBA,f,250
+Kevin Garnett,garneke01,West,2007,NBA,f,240
+Josh Howard,howarjo01,West,2007,NBA,t,210
+Allen Iverson,iversal01,West,2007,NBA,t,165
+Shawn Marion,mariosh01,West,2007,NBA,f,220
+Tracy McGrady,mcgratr01,West,2007,NBA,f,210
+Yao Ming,mingya01,West,2007,NBA,t,310
+Steve Nash,nashst01,West,2007,NBA,t,195
+Dirk Nowitzki,nowitdi01,West,2007,NBA,f,245
+Mehmet Okur ,okurme01,West,2007,NBA,t,249
+Tony Parker,parketo01,West,2007,NBA,f,185
+Amar'e Stoudemire,stoudam01,West,2007,NBA,f,245
+Gilbert Arenas,arenagi01,East,2006,NBA,t,191
+Chauncey Billups,billuch01,East,2006,NBA,f,202
+Chris Bosh,boshch01,East,2006,NBA,f,235
+Vince Carter,cartevi01,East,2006,NBA,f,220
+Richard Hamilton,hamilri01,East,2006,NBA,f,185
+Allen Iverson,iversal01,East,2006,NBA,f,165
+LeBron James,jamesle01,East,2006,NBA,f,250
+Jermaine O'Neal,onealje01,East,2006,NBA,t,226
+Shaquille O'Neal,onealsh01,East,2006,NBA,f,325
+Paul Pierce,piercpa01,East,2006,NBA,f,235
+Dwyane Wade,wadedw01,East,2006,NBA,f,220
+Ben Wallace,wallabe01,East,2006,NBA,f,240
+Rasheed Wallace,wallara01,East,2006,NBA,f,225
+Ray Allen,allenra02,West,2006,NBA,f,205
+Elton Brand,brandel01,West,2006,NBA,f,275
+Kobe Bryant,bryanko01,West,2006,NBA,f,212
+Tim Duncan,duncati01,West,2006,NBA,f,250
+Kevin Garnett,garneke01,West,2006,NBA,f,240
+Pau Gasol,gasolpa01,West,2006,NBA,f,250
+Shawn Marion,mariosh01,West,2006,NBA,f,220
+Tracy McGrady,mcgratr01,West,2006,NBA,f,210
+Yao Ming,mingya01,West,2006,NBA,f,310
+Steve Nash,nashst01,West,2006,NBA,f,195
+Dirk Nowitzki,nowitdi01,West,2006,NBA,f,245
+Tony Parker,parketo01,West,2006,NBA,f,185
+Gilbert Arenas,arenagi01,East,2005,NBA,f,191
+Vince Carter,cartevi01,East,2005,NBA,f,220
+Grant Hill,hillgr01,East,2005,NBA,f,225
+Zydrunas Ilgauskas,ilgauzy01,East,2005,NBA,f,238
+Allen Iverson,iversal01,East,2005,NBA,f,165
+LeBron James,jamesle01,East,2005,NBA,f,250
+Antawn Jamison,jamisan01,East,2005,NBA,f,223
+Jermaine O'Neal,onealje01,East,2005,NBA,f,226
+Shaquille O'Neal,onealsh01,East,2005,NBA,f,325
+Paul Pierce,piercpa01,East,2005,NBA,f,235
+Dwyane Wade,wadedw01,East,2005,NBA,f,220
+Ben Wallace,wallabe01,East,2005,NBA,f,240
+Ray Allen,allenra02,West,2005,NBA,f,205
+Kobe Bryant,bryanko01,West,2005,NBA,f,212
+Tim Duncan,duncati01,West,2005,NBA,f,250
+Kevin Garnett,garneke01,West,2005,NBA,f,240
+Manu Ginóbili,ginobma01,West,2005,NBA,f,205
+Rashard Lewis,lewisra02,West,2005,NBA,f,215
+Shawn Marion,mariosh01,West,2005,NBA,f,220
+Tracy McGrady,mcgratr01,West,2005,NBA,f,210
+Yao Ming,mingya01,West,2005,NBA,f,310
+Steve Nash,nashst01,West,2005,NBA,f,195
+Dirk Nowitzki,nowitdi01,West,2005,NBA,f,245
+Amar'e Stoudemire,stoudam01,West,2005,NBA,f,245
+Metta World Peace,artesro01,East,2004,NBA,f,260
+Vince Carter,cartevi01,East,2004,NBA,f,220
+Baron Davis,davisba01,East,2004,NBA,f,209
+Allen Iverson,iversal01,East,2004,NBA,f,165
+Jason Kidd,kiddja01,East,2004,NBA,f,205
+Jamaal Magloire,magloja01,East,2004,NBA,f,259
+Kenyon Martin,martike01,East,2004,NBA,f,234
+Tracy McGrady,mcgratr01,East,2004,NBA,f,210
+Jermaine O'Neal,onealje01,East,2004,NBA,f,226
+Paul Pierce,piercpa01,East,2004,NBA,f,235
+Michael Redd,reddmi01,East,2004,NBA,f,220
+Ben Wallace,wallabe01,East,2004,NBA,f,240
+Ray Allen,allenra02,West,2004,NBA,f,205
+Kobe Bryant,bryanko01,West,2004,NBA,f,212
+Sam Cassell,cassesa01,West,2004,NBA,f,185
+Tim Duncan,duncati01,West,2004,NBA,f,250
+Steve Francis,francst01,West,2004,NBA,f,195
+Kevin Garnett,garneke01,West,2004,NBA,f,240
+Andrei Kirilenko,kirilan01,West,2004,NBA,f,220
+Brad Miller,millebr01,West,2004,NBA,f,244
+Yao Ming,mingya01,West,2004,NBA,f,310
+Dirk Nowitzki,nowitdi01,West,2004,NBA,f,245
+Shaquille O'Neal,onealsh01,West,2004,NBA,f,325
+Peja Stojaković,stojape01,West,2004,NBA,f,229
+Vince Carter,cartevi01,East,2003,NBA,f,220
+Zydrunas Ilgauskas,ilgauzy01,East,2003,NBA,f,238
+Allen Iverson,iversal01,East,2003,NBA,f,165
+Michael Jordan,jordami01,East,2003,NBA,f,198
+Jason Kidd,kiddja01,East,2003,NBA,f,205
+Jamal Mashburn,mashbja01,East,2003,NBA,f,240
+Tracy McGrady,mcgratr01,East,2003,NBA,f,210
+Brad Miller,millebr01,East,2003,NBA,f,244
+Jermaine O'Neal,onealje01,East,2003,NBA,f,226
+Paul Pierce,piercpa01,East,2003,NBA,f,235
+Antoine Walker,walkean02,East,2003,NBA,f,224
+Ben Wallace,wallabe01,East,2003,NBA,f,240
+Kobe Bryant,bryanko01,West,2003,NBA,f,212
+Tim Duncan,duncati01,West,2003,NBA,f,250
+Steve Francis,francst01,West,2003,NBA,f,195
+Kevin Garnett,garneke01,West,2003,NBA,f,240
+Stephon Marbury,marbust01,West,2003,NBA,f,180
+Shawn Marion,mariosh01,West,2003,NBA,f,220
+Yao Ming,mingya01,West,2003,NBA,f,310
+Steve Nash,nashst01,West,2003,NBA,f,195
+Dirk Nowitzki,nowitdi01,West,2003,NBA,f,245
+Shaquille O'Neal,onealsh01,West,2003,NBA,f,325
+Gary Payton,paytoga01,West,2003,NBA,f,180
+Peja Stojaković,stojape01,West,2003,NBA,t,229
+Chris Webber,webbech01,West,2003,NBA,t,245
+Shareef Abdur-Rahim,abdursh01,East,2002,NBA,f,225
+Ray Allen,allenra02,East,2002,NBA,f,205
+Vince Carter,cartevi01,East,2002,NBA,t,220
+Baron Davis,davisba01,East,2002,NBA,t,209
+Allen Iverson,iversal01,East,2002,NBA,f,165
+Michael Jordan,jordami01,East,2002,NBA,f,198
+Jason Kidd,kiddja01,East,2002,NBA,f,205
+Tracy McGrady,mcgratr01,East,2002,NBA,f,210
+Alonzo Mourning,mournal01,East,2002,NBA,f,240
+Dikembe Mutombo,mutomdi01,East,2002,NBA,f,245
+Jermaine O'Neal,onealje01,East,2002,NBA,f,226
+Paul Pierce,piercpa01,East,2002,NBA,f,235
+Antoine Walker,walkean02,East,2002,NBA,f,224
+Elton Brand,brandel01,West,2002,NBA,t,275
+Kobe Bryant,bryanko01,West,2002,NBA,f,212
+Tim Duncan,duncati01,West,2002,NBA,f,250
+Steve Francis,francst01,West,2002,NBA,f,195
+Kevin Garnett,garneke01,West,2002,NBA,f,240
+Karl Malone,malonka01,West,2002,NBA,t,250
+Steve Nash,nashst01,West,2002,NBA,f,195
+Dirk Nowitzki,nowitdi01,West,2002,NBA,f,245
+Shaquille O'Neal,onealsh01,West,2002,NBA,t,325
+Gary Payton,paytoga01,West,2002,NBA,f,180
+Peja Stojaković,stojape01,West,2002,NBA,f,229
+Wally Szczerbiak,szczewa02,West,2002,NBA,f,244
+Chris Webber,webbech01,West,2002,NBA,f,245
+Ray Allen,allenra02,East,2001,NBA,f,205
+Vince Carter,cartevi01,East,2001,NBA,f,220
+Antonio Davis,davisan01,East,2001,NBA,t,215
+Grant Hill,hillgr01,East,2001,NBA,t,225
+Allan Houston,houstal01,East,2001,NBA,f,200
+Allen Iverson,iversal01,East,2001,NBA,f,165
+Stephon Marbury,marbust01,East,2001,NBA,f,180
+Anthony Mason,masonan01,East,2001,NBA,f,250
+Tracy McGrady,mcgratr01,East,2001,NBA,f,210
+Alonzo Mourning,mournal01,East,2001,NBA,t,240
+Dikembe Mutombo,mutomdi01,East,2001,NBA,t,245
+Theo Ratliff,ratlith01,East,2001,NBA,t,225
+Glenn Robinson,robingl01,East,2001,NBA,f,225
+Latrell Sprewell,sprewla01,East,2001,NBA,t,190
+Jerry Stackhouse,stackje01,East,2001,NBA,f,218
+Kobe Bryant,bryanko01,West,2001,NBA,f,212
+Vlade Divac,divacvl01,West,2001,NBA,t,243
+Tim Duncan,duncati01,West,2001,NBA,f,250
+Michael Finley,finlemi01,West,2001,NBA,f,215
+Kevin Garnett,garneke01,West,2001,NBA,f,240
+Jason Kidd,kiddja01,West,2001,NBA,f,205
+Karl Malone,malonka01,West,2001,NBA,f,250
+Antonio McDyess,mcdyean01,West,2001,NBA,f,220
+Shaquille O'Neal,onealsh01,West,2001,NBA,t,325
+Gary Payton,paytoga01,West,2001,NBA,f,180
+David Robinson,robinda01,West,2001,NBA,f,235
+Rasheed Wallace,wallara01,West,2001,NBA,f,225
+Chris Webber,webbech01,West,2001,NBA,f,245
+Ray Allen,allenra02,East,2000,NBA,f,205
+Vince Carter,cartevi01,East,2000,NBA,f,220
+Dale Davis,davisda01,East,2000,NBA,f,230
+Grant Hill,hillgr01,East,2000,NBA,f,225
+Allan Houston,houstal01,East,2000,NBA,f,200
+Allen Iverson,iversal01,East,2000,NBA,f,165
+Eddie Jones,jonesed02,East,2000,NBA,f,190
+Reggie Miller,millere01,East,2000,NBA,f,185
+Alonzo Mourning,mournal01,East,2000,NBA,f,240
+Dikembe Mutombo,mutomdi01,East,2000,NBA,f,245
+Glenn Robinson,robingl01,East,2000,NBA,f,225
+Jerry Stackhouse,stackje01,East,2000,NBA,f,218
+Kobe Bryant,bryanko01,West,2000,NBA,f,212
+Tim Duncan,duncati01,West,2000,NBA,f,250
+Michael Finley,finlemi01,West,2000,NBA,f,215
+Kevin Garnett,garneke01,West,2000,NBA,f,240
+Jason Kidd,kiddja01,West,2000,NBA,f,205
+Karl Malone,malonka01,West,2000,NBA,f,250
+Shaquille O'Neal,onealsh01,West,2000,NBA,f,325
+Gary Payton,paytoga01,West,2000,NBA,f,180
+David Robinson,robinda01,West,2000,NBA,f,235
+John Stockton,stockjo01,West,2000,NBA,f,170
+Rasheed Wallace,wallara01,West,2000,NBA,f,225
+Chris Webber,webbech01,West,2000,NBA,f,245
+Anfernee Hardaway,hardaan01,East,1998,NBA,f,195
+Tim Hardaway,hardati01,East,1998,NBA,f,175
+Grant Hill,hillgr01,East,1998,NBA,f,225
+Michael Jordan,jordami01,East,1998,NBA,f,198
+Shawn Kemp,kempsh01,East,1998,NBA,f,230
+Reggie Miller,millere01,East,1998,NBA,f,185
+Dikembe Mutombo,mutomdi01,East,1998,NBA,f,245
+Glen Rice,ricegl01,East,1998,NBA,f,215
+Steve Smith,smithst01,East,1998,NBA,f,200
+Rik Smits,smitsri01,East,1998,NBA,f,250
+Antoine Walker,walkean02,East,1998,NBA,f,224
+Jayson Williams,willija01,East,1998,NBA,f,240
+Vin Baker,bakervi01,West,1998,NBA,f,232
+Kobe Bryant,bryanko01,West,1998,NBA,f,212
+Tim Duncan,duncati01,West,1998,NBA,f,250
+Kevin Garnett,garneke01,West,1998,NBA,f,240
+Eddie Jones,jonesed02,West,1998,NBA,f,190
+Jason Kidd,kiddja01,West,1998,NBA,f,205
+Karl Malone,malonka01,West,1998,NBA,f,250
+Shaquille O'Neal,onealsh01,West,1998,NBA,f,325
+Gary Payton,paytoga01,West,1998,NBA,f,180
+Mitch Richmond,richmmi01,West,1998,NBA,f,215
+David Robinson,robinda01,West,1998,NBA,f,235
+Nick Van Exel,vanexni01,West,1998,NBA,f,170
+Vin Baker,bakervi01,East,1997,NBA,f,232
+Terrell Brandon,brandte01,East,1997,NBA,f,180
+Joe Dumars,dumarjo01,East,1997,NBA,t,190
+Patrick Ewing,ewingpa01,East,1997,NBA,t,240
+Anfernee Hardaway,hardaan01,East,1997,NBA,f,195
+Tim Hardaway,hardati01,East,1997,NBA,f,175
+Grant Hill,hillgr01,East,1997,NBA,f,225
+Michael Jordan,jordami01,East,1997,NBA,f,198
+Christian Laettner,laettch01,East,1997,NBA,f,235
+Alonzo Mourning,mournal01,East,1997,NBA,t,240
+Dikembe Mutombo,mutomdi01,East,1997,NBA,f,245
+Scottie Pippen,pippesc01,East,1997,NBA,f,210
+Glen Rice,ricegl01,East,1997,NBA,f,215
+Chris Webber,webbech01,East,1997,NBA,t,245
+Charles Barkley,barklch01,West,1997,NBA,t,252
+Clyde Drexler,drexlcl01,West,1997,NBA,t,210
+Kevin Garnett,garneke01,West,1997,NBA,t,240
+Chris Gatling,gatlich01,West,1997,NBA,t,220
+Tom Gugliotta,guglito01,West,1997,NBA,f,240
+Eddie Jones,jonesed02,West,1997,NBA,f,190
+Shawn Kemp,kempsh01,West,1997,NBA,f,230
+Karl Malone,malonka01,West,1997,NBA,f,250
+Hakeem Olajuwon,olajuha01,West,1997,NBA,f,255
+Shaquille O'Neal,onealsh01,West,1997,NBA,t,325
+Gary Payton,paytoga01,West,1997,NBA,f,180
+Mitch Richmond,richmmi01,West,1997,NBA,f,215
+Detlef Schrempf ,schrede01,West,1997,NBA,t,235
+Latrell Sprewell,sprewla01,West,1997,NBA,f,190
+John Stockton,stockjo01,West,1997,NBA,f,170
+Vin Baker,bakervi01,East,1996,NBA,f,232
+Terrell Brandon,brandte01,East,1996,NBA,f,180
+Patrick Ewing,ewingpa01,East,1996,NBA,f,240
+Anfernee Hardaway,hardaan01,East,1996,NBA,f,195
+Grant Hill,hillgr01,East,1996,NBA,f,225
+Juwan Howard,howarju01,East,1996,NBA,f,240
+Michael Jordan,jordami01,East,1996,NBA,f,198
+Reggie Miller,millere01,East,1996,NBA,f,185
+Alonzo Mourning,mournal01,East,1996,NBA,f,240
+Shaquille O'Neal,onealsh01,East,1996,NBA,f,325
+Scottie Pippen,pippesc01,East,1996,NBA,f,210
+Glen Rice,ricegl01,East,1996,NBA,f,215
+Charles Barkley,barklch01,West,1996,NBA,f,252
+Clyde Drexler,drexlcl01,West,1996,NBA,f,210
+Sean Elliott,elliose01,West,1996,NBA,f,205
+Shawn Kemp,kempsh01,West,1996,NBA,f,230
+Jason Kidd,kiddja01,West,1996,NBA,f,205
+Karl Malone,malonka01,West,1996,NBA,f,250
+Dikembe Mutombo,mutomdi01,West,1996,NBA,f,245
+Hakeem Olajuwon,olajuha01,West,1996,NBA,f,255
+Gary Payton,paytoga01,West,1996,NBA,f,180
+Mitch Richmond,richmmi01,West,1996,NBA,f,215
+David Robinson,robinda01,West,1996,NBA,f,235
+John Stockton,stockjo01,West,1996,NBA,f,170
+Vin Baker,bakervi01,East,1995,NBA,f,232
+Dana Barros,barroda01,East,1995,NBA,f,163
+Joe Dumars,dumarjo01,East,1995,NBA,f,190
+Patrick Ewing,ewingpa01,East,1995,NBA,f,240
+Anfernee Hardaway,hardaan01,East,1995,NBA,f,195
+Grant Hill,hillgr01,East,1995,NBA,f,225
+Tyrone Hill,hillty01,East,1995,NBA,f,240
+Larry Johnson,johnsla02,East,1995,NBA,f,250
+Reggie Miller,millere01,East,1995,NBA,f,185
+Alonzo Mourning,mournal01,East,1995,NBA,f,240
+Shaquille O'Neal,onealsh01,East,1995,NBA,f,325
+Scottie Pippen,pippesc01,East,1995,NBA,f,210
+Charles Barkley,barklch01,West,1995,NBA,f,252
+Cedric Ceballos,cebalce01,West,1995,NBA,t,220
+Shawn Kemp,kempsh01,West,1995,NBA,f,230
+Dan Majerle,majerda01,West,1995,NBA,f,215
+Karl Malone,malonka01,West,1995,NBA,f,250
+Dikembe Mutombo,mutomdi01,West,1995,NBA,t,245
+Hakeem Olajuwon,olajuha01,West,1995,NBA,f,255
+Gary Payton,paytoga01,West,1995,NBA,f,180
+Mitch Richmond,richmmi01,West,1995,NBA,f,215
+David Robinson,robinda01,West,1995,NBA,f,235
+Detlef Schrempf,schrede01,West,1995,NBA,f,235
+Latrell Sprewell,sprewla01,West,1995,NBA,f,190
+John Stockton,stockjo01,West,1995,NBA,f,170
+Kenny Anderson,anderke01,East,1994,NBA,f,168
+B.J. Armstrong,armstbj01,East,1994,NBA,f,175
+Mookie Blaylock,blaylmo01,East,1994,NBA,f,180
+Derrick Coleman,colemde01,East,1994,NBA,f,230
+Patrick Ewing,ewingpa01,East,1994,NBA,f,240
+Horace Grant,grantho01,East,1994,NBA,f,215
+Alonzo Mourning,mournal01,East,1994,NBA,t,240
+Charles Oakley,oaklech01,East,1994,NBA,t,225
+Shaquille O'Neal,onealsh01,East,1994,NBA,f,325
+Scottie Pippen,pippesc01,East,1994,NBA,f,210
+Mark Price,pricema01,East,1994,NBA,f,170
+John Starks,starkjo01,East,1994,NBA,f,180
+Dominique Wilkins,wilkido01,East,1994,NBA,f,215
+Charles Barkley,barklch01,West,1994,NBA,t,252
+Clyde Drexler,drexlcl01,West,1994,NBA,f,210
+Kevin Johnson,johnske02,West,1994,NBA,f,180
+Shawn Kemp,kempsh01,West,1994,NBA,f,230
+Karl Malone,malonka01,West,1994,NBA,f,250
+Danny Manning,mannida01,West,1994,NBA,f,230
+Hakeem Olajuwon,olajuha01,West,1994,NBA,f,255
+Gary Payton,paytoga01,West,1994,NBA,t,180
+Mitch Richmond,richmmi01,West,1994,NBA,f,215
+Clifford Robinson,robincl02,West,1994,NBA,f,225
+David Robinson,robinda01,West,1994,NBA,f,235
+Latrell Sprewell,sprewla01,West,1994,NBA,f,190
+John Stockton,stockjo01,West,1994,NBA,f,170
+Brad Daugherty,daughbr01,East,1993,NBA,f,245
+Joe Dumars,dumarjo01,East,1993,NBA,f,190
+Patrick Ewing,ewingpa01,East,1993,NBA,f,240
+Larry Johnson,johnsla02,East,1993,NBA,f,250
+Michael Jordan,jordami01,East,1993,NBA,f,198
+Larry Nance,nancela01,East,1993,NBA,f,205
+Shaquille O'Neal,onealsh01,East,1993,NBA,f,325
+Scottie Pippen,pippesc01,East,1993,NBA,f,210
+Mark Price,pricema01,East,1993,NBA,f,170
+Detlef Schrempf,schrede01,East,1993,NBA,f,235
+Isiah Thomas,thomais01,East,1993,NBA,f,180
+Dominique Wilkins,wilkido01,East,1993,NBA,f,215
+Charles Barkley,barklch01,West,1993,NBA,f,252
+Clyde Drexler,drexlcl01,West,1993,NBA,f,210
+Sean Elliott,elliose01,West,1993,NBA,f,205
+Tim Hardaway,hardati01,West,1993,NBA,f,175
+Shawn Kemp,kempsh01,West,1993,NBA,f,230
+Dan Majerle,majerda01,West,1993,NBA,f,215
+Karl Malone,malonka01,West,1993,NBA,f,250
+Danny Manning,mannida01,West,1993,NBA,f,230
+Chris Mullin,mullich01,West,1993,NBA,t,215
+Hakeem Olajuwon,olajuha01,West,1993,NBA,f,255
+Terry Porter,portete01,West,1993,NBA,t,195
+Mitch Richmond,richmmi01,West,1993,NBA,t,215
+David Robinson,robinda01,West,1993,NBA,f,235
+John Stockton,stockjo01,West,1993,NBA,f,170
+Michael Adams,adamsmi01,East,1992,NBA,t,162
+Charles Barkley,barklch01,East,1992,NBA,f,252
+Larry Bird,birdla01,East,1992,NBA,t,220
+Brad Daugherty,daughbr01,East,1992,NBA,f,245
+Joe Dumars,dumarjo01,East,1992,NBA,f,190
+Patrick Ewing,ewingpa01,East,1992,NBA,f,240
+Michael Jordan,jordami01,East,1992,NBA,f,198
+Reggie Lewis,lewisre01,East,1992,NBA,f,195
+Scottie Pippen,pippesc01,East,1992,NBA,f,210
+Mark Price,pricema01,East,1992,NBA,f,170
+Dennis Rodman,rodmade01,East,1992,NBA,f,210
+Isiah Thomas,thomais01,East,1992,NBA,f,180
+Dominique Wilkins,wilkido01,East,1992,NBA,t,215
+Kevin Willis,willike02,East,1992,NBA,t,220
+Clyde Drexler,drexlcl01,West,1992,NBA,f,210
+Tim Hardaway,hardati01,West,1992,NBA,f,175
+Jeff Hornacek,hornaje01,West,1992,NBA,f,190
+Magic Johnson,johnsma02,West,1992,NBA,f,215
+Dan Majerle,majerda01,West,1992,NBA,f,215
+Karl Malone,malonka01,West,1992,NBA,f,250
+Chris Mullin,mullich01,West,1992,NBA,f,215
+Dikembe Mutombo,mutomdi01,West,1992,NBA,f,245
+Hakeem Olajuwon,olajuha01,West,1992,NBA,f,255
+David Robinson,robinda01,West,1992,NBA,f,235
+John Stockton,stockjo01,West,1992,NBA,f,170
+Otis Thorpe,thorpot01,West,1992,NBA,f,248
+James Worthy,worthja01,West,1992,NBA,f,225
+Charles Barkley,barklch01,East,1991,NBA,f,252
+Larry Bird,birdla01,East,1991,NBA,t,220
+Brad Daugherty,daughbr01,East,1991,NBA,f,245
+Joe Dumars,dumarjo01,East,1991,NBA,f,190
+Patrick Ewing,ewingpa01,East,1991,NBA,f,240
+Hersey Hawkins,hawkihe01,East,1991,NBA,t,190
+Michael Jordan,jordami01,East,1991,NBA,f,198
+Bernard King,kingbe01,East,1991,NBA,f,205
+Kevin McHale,mchalke01,East,1991,NBA,f,210
+Robert Parish,parisro01,East,1991,NBA,f,230
+Ricky Pierce,piercri01,East,1991,NBA,f,205
+Alvin Robertson,roberal01,East,1991,NBA,f,185
+Isiah Thomas,thomais01,East,1991,NBA,t,180
+Dominique Wilkins,wilkido01,East,1991,NBA,f,215
+Tom Chambers,chambto01,West,1991,NBA,f,220
+Clyde Drexler,drexlcl01,West,1991,NBA,f,210
+Kevin Duckworth,duckwke01,West,1991,NBA,f,275
+Tim Hardaway,hardati01,West,1991,NBA,f,175
+Kevin Johnson,johnske02,West,1991,NBA,f,180
+Magic Johnson,johnsma02,West,1991,NBA,f,215
+Karl Malone,malonka01,West,1991,NBA,f,250
+Chris Mullin,mullich01,West,1991,NBA,f,215
+Terry Porter,portete01,West,1991,NBA,f,195
+David Robinson,robinda01,West,1991,NBA,f,235
+John Stockton,stockjo01,West,1991,NBA,f,170
+James Worthy,worthja01,West,1991,NBA,f,225
+Charles Barkley,barklch01,East,1990,NBA,f,252
+Larry Bird,birdla01,East,1990,NBA,f,220
+Joe Dumars,dumarjo01,East,1990,NBA,f,190
+Patrick Ewing,ewingpa01,East,1990,NBA,f,240
+Michael Jordan,jordami01,East,1990,NBA,f,198
+Kevin McHale,mchalke01,East,1990,NBA,f,210
+Reggie Miller,millere01,East,1990,NBA,f,185
+Robert Parish,parisro01,East,1990,NBA,f,230
+Scottie Pippen,pippesc01,East,1990,NBA,f,210
+Dennis Rodman,rodmade01,East,1990,NBA,f,210
+Isiah Thomas,thomais01,East,1990,NBA,f,180
+Dominique Wilkins,wilkido01,East,1990,NBA,f,215
+Rolando Blackman,blackro01,West,1990,NBA,t,190
+Tom Chambers,chambto01,West,1990,NBA,f,220
+Clyde Drexler,drexlcl01,West,1990,NBA,f,210
+A.C. Green,greenac01,West,1990,NBA,f,220
+Kevin Johnson,johnske02,West,1990,NBA,f,180
+Magic Johnson,johnsma02,West,1990,NBA,f,215
+Fat Lever,leverfa01,West,1990,NBA,f,170
+Karl Malone,malonka01,West,1990,NBA,t,250
+Chris Mullin,mullich01,West,1990,NBA,f,215
+Hakeem Olajuwon,olajuha01,West,1990,NBA,f,255
+David Robinson,robinda01,West,1990,NBA,f,235
+John Stockton,stockjo01,West,1990,NBA,f,170
+James Worthy,worthja01,West,1990,NBA,f,225
+Charles Barkley,barklch01,East,1989,NBA,f,252
+Terry Cummings,cummite01,East,1989,NBA,f,220
+Brad Daugherty,daughbr01,East,1989,NBA,f,245
+Patrick Ewing,ewingpa01,East,1989,NBA,f,240
+Mark Jackson,jacksma01,East,1989,NBA,f,192
+Michael Jordan,jordami01,East,1989,NBA,f,198
+Moses Malone,malonmo01,East,1989,NBA,f,215
+Kevin McHale,mchalke01,East,1989,NBA,f,210
+Larry Nance,nancela01,East,1989,NBA,f,205
+Mark Price,pricema01,East,1989,NBA,f,170
+Isiah Thomas,thomais01,East,1989,NBA,f,180
+Dominique Wilkins,wilkido01,East,1989,NBA,f,215
+Kareem Abdul-Jabbar,abdulka01,West,1989,NBA,t,225
+Tom Chambers,chambto01,West,1989,NBA,f,220
+Clyde Drexler,drexlcl01,West,1989,NBA,f,210
+Kevin Duckworth,duckwke01,West,1989,NBA,f,275
+Mark Eaton,eatonma01,West,1989,NBA,f,275
+Dale Ellis,ellisda01,West,1989,NBA,f,205
+Alex English,englial01,West,1989,NBA,f,190
+Magic Johnson,johnsma02,West,1989,NBA,t,215
+Karl Malone,malonka01,West,1989,NBA,f,250
+Chris Mullin,mullich01,West,1989,NBA,f,215
+Hakeem Olajuwon,olajuha01,West,1989,NBA,f,255
+John Stockton,stockjo01,West,1989,NBA,f,170
+James Worthy,worthja01,West,1989,NBA,f,225
+Danny Ainge,aingeda01,East,1988,NBA,f,185
+Charles Barkley,barklch01,East,1988,NBA,f,252
+Larry Bird,birdla01,East,1988,NBA,f,220
+Maurice Cheeks,cheekma01,East,1988,NBA,f,180
+Brad Daugherty,daughbr01,East,1988,NBA,f,245
+Patrick Ewing,ewingpa01,East,1988,NBA,f,240
+Michael Jordan,jordami01,East,1988,NBA,f,198
+Moses Malone,malonmo01,East,1988,NBA,f,215
+Kevin McHale,mchalke01,East,1988,NBA,f,210
+Doc Rivers,riverdo01,East,1988,NBA,f,185
+Isiah Thomas,thomais01,East,1988,NBA,f,180
+Dominique Wilkins,wilkido01,East,1988,NBA,f,215
+Kareem Abdul-Jabbar,abdulka01,West,1988,NBA,f,225
+Mark Aguirre,aguirma01,West,1988,NBA,f,232
+James Donaldson,donalja01,West,1988,NBA,t,275
+Clyde Drexler,drexlcl01,West,1988,NBA,f,210
+Alex English,englial01,West,1988,NBA,f,190
+Magic Johnson,johnsma02,West,1988,NBA,f,215
+Steve Johnson,johnsst03,West,1988,NBA,t,235
+Fat Lever,leverfa01,West,1988,NBA,f,170
+Karl Malone,malonka01,West,1988,NBA,f,250
+Xavier McDaniel,mcdanxa01,West,1988,NBA,f,205
+Hakeem Olajuwon,olajuha01,West,1988,NBA,f,255
+Alvin Robertson,roberal01,West,1988,NBA,f,185
+James Worthy,worthja01,West,1988,NBA,f,225
+Charles Barkley,barklch01,East,1987,NBA,f,252
+Larry Bird,birdla01,East,1987,NBA,f,220
+Maurice Cheeks,cheekma01,East,1987,NBA,f,180
+Julius Erving,ervinju01,East,1987,NBA,f,210
+Michael Jordan,jordami01,East,1987,NBA,f,198
+Bill Laimbeer,laimbbi01,East,1987,NBA,f,245
+Jeff Malone,malonje01,East,1987,NBA,f,205
+Moses Malone,malonmo01,East,1987,NBA,f,215
+Kevin McHale,mchalke01,East,1987,NBA,f,210
+Robert Parish,parisro01,East,1987,NBA,f,230
+Isiah Thomas,thomais01,East,1987,NBA,f,180
+Dominique Wilkins,wilkido01,East,1987,NBA,f,215
+Kareem Abdul-Jabbar,abdulka01,West,1987,NBA,f,225
+Mark Aguirre,aguirma01,West,1987,NBA,f,232
+Rolando Blackman,blackro01,West,1987,NBA,f,190
+Joe Barry Carroll,carrojo01,West,1987,NBA,f,225
+Tom Chambers,chambto01,West,1987,NBA,t,220
+Walter Davis,daviswa03,West,1987,NBA,f,193
+Alex English,englial01,West,1987,NBA,f,190
+Sleepy Floyd,floydsl01,West,1987,NBA,f,170
+Magic Johnson,johnsma02,West,1987,NBA,f,215
+Hakeem Olajuwon,olajuha01,West,1987,NBA,f,255
+Alvin Robertson,roberal01,West,1987,NBA,f,185
+Ralph Sampson,sampsra01,West,1987,NBA,t,228
+James Worthy,worthja01,West,1987,NBA,f,225
+Larry Bird,birdla01,East,1986,NBA,f,220
+Maurice Cheeks,cheekma01,East,1986,NBA,f,180
+Julius Erving,ervinju01,East,1986,NBA,f,210
+Patrick Ewing,ewingpa01,East,1986,NBA,t,240
+Michael Jordan,jordami01,East,1986,NBA,t,198
+Jeff Malone,malonje01,East,1986,NBA,f,205
+Moses Malone,malonmo01,East,1986,NBA,f,215
+Kevin McHale,mchalke01,East,1986,NBA,f,210
+Sidney Moncrief,moncrsi01,East,1986,NBA,f,180
+Robert Parish,parisro01,East,1986,NBA,f,230
+Isiah Thomas,thomais01,East,1986,NBA,f,180
+Dominique Wilkins,wilkido01,East,1986,NBA,f,215
+Buck Williams,willibu01,East,1986,NBA,f,215
+Kareem Abdul-Jabbar,abdulka01,West,1986,NBA,f,225
+Rolando Blackman,blackro01,West,1986,NBA,f,190
+Adrian Dantley,dantlad01,West,1986,NBA,f,208
+Clyde Drexler,drexlcl01,West,1986,NBA,f,210
+Alex English,englial01,West,1986,NBA,f,190
+Artis Gilmore,gilmoar01,West,1986,NBA,f,240
+Marques Johnson,johnsma01,West,1986,NBA,f,218
+Magic Johnson,johnsma02,West,1986,NBA,f,215
+Hakeem Olajuwon,olajuha01,West,1986,NBA,f,255
+Alvin Robertson,roberal01,West,1986,NBA,f,185
+Ralph Sampson,sampsra01,West,1986,NBA,f,228
+James Worthy,worthja01,West,1986,NBA,f,225
+Larry Bird,birdla01,East,1985,NBA,f,220
+Terry Cummings,cummite01,East,1985,NBA,f,220
+Julius Erving,ervinju01,East,1985,NBA,f,210
+Dennis Johnson,johnsde01,East,1985,NBA,f,185
+Michael Jordan,jordami01,East,1985,NBA,f,198
+Bernard King,kingbe01,East,1985,NBA,f,205
+Bill Laimbeer,laimbbi01,East,1985,NBA,t,245
+Moses Malone,malonmo01,East,1985,NBA,f,215
+Sidney Moncrief,moncrsi01,East,1985,NBA,f,180
+Robert Parish,parisro01,East,1985,NBA,f,230
+Michael Ray Richardson,richami01,East,1985,NBA,f,189
+Jeff Ruland,rulanje01,East,1985,NBA,t,240
+Isiah Thomas,thomais01,East,1985,NBA,f,180
+Kareem Abdul-Jabbar,abdulka01,West,1985,NBA,f,225
+Rolando Blackman,blackro01,West,1985,NBA,f,190
+Adrian Dantley,dantlad01,West,1985,NBA,f,208
+Alex English,englial01,West,1985,NBA,f,190
+George Gervin,gervige01,West,1985,NBA,f,180
+Magic Johnson,johnsma02,West,1985,NBA,f,215
+Larry Nance,nancela01,West,1985,NBA,f,205
+Calvin Natt,nattca01,West,1985,NBA,f,220
+Norm Nixon,nixonno01,West,1985,NBA,f,170
+Hakeem Olajuwon,olajuha01,West,1985,NBA,f,255
+Ralph Sampson,sampsra01,West,1985,NBA,f,228
+Jack Sikma,sikmaja01,West,1985,NBA,f,230
+Larry Bird,birdla01,East,1984,NBA,f,220
+Otis Birdsong,birdsot01,East,1984,NBA,f,190
+Julius Erving,ervinju01,East,1984,NBA,f,210
+Bernard King,kingbe01,East,1984,NBA,f,205
+Bill Laimbeer,laimbbi01,East,1984,NBA,t,245
+Moses Malone,malonmo01,East,1984,NBA,t,215
+Kevin McHale,mchalke01,East,1984,NBA,f,210
+Sidney Moncrief,moncrsi01,East,1984,NBA,f,180
+Robert Parish,parisro01,East,1984,NBA,f,230
+Jeff Ruland,rulanje01,East,1984,NBA,f,240
+Isiah Thomas,thomais01,East,1984,NBA,f,180
+Andrew Toney,toneyan01,East,1984,NBA,f,178
+Kelly Tripucka,tripuke01,East,1984,NBA,f,220
+Kareem Abdul-Jabbar,abdulka01,West,1984,NBA,f,225
+Mark Aguirre,aguirma01,West,1984,NBA,f,232
+Adrian Dantley,dantlad01,West,1984,NBA,f,208
+Walter Davis,daviswa03,West,1984,NBA,f,193
+Alex English,englial01,West,1984,NBA,f,190
+George Gervin,gervige01,West,1984,NBA,f,180
+Rickey Green,greenri01,West,1984,NBA,f,170
+Magic Johnson,johnsma02,West,1984,NBA,f,215
+Jim Paxson,paxsoji02,West,1984,NBA,f,200
+Ralph Sampson,sampsra01,West,1984,NBA,f,228
+Jack Sikma,sikmaja01,West,1984,NBA,f,230
+Kiki Vandeweghe,vandeki01,West,1984,NBA,f,220
+Larry Bird,birdla01,East,1983,NBA,f,220
+Maurice Cheeks,cheekma01,East,1983,NBA,f,180
+Julius Erving,ervinju01,East,1983,NBA,f,210
+Marques Johnson,johnsma01,East,1983,NBA,f,218
+Bill Laimbeer,laimbbi01,East,1983,NBA,f,245
+Moses Malone,malonmo01,East,1983,NBA,f,215
+Sidney Moncrief,moncrsi01,East,1983,NBA,f,180
+Robert Parish,parisro01,East,1983,NBA,f,230
+Reggie Theus,theusre01,East,1983,NBA,f,190
+Isiah Thomas,thomais01,East,1983,NBA,f,180
+Andrew Toney,toneyan01,East,1983,NBA,f,178
+Buck Williams,willibu01,East,1983,NBA,f,215
+Kareem Abdul-Jabbar,abdulka01,West,1983,NBA,f,225
+Alex English,englial01,West,1983,NBA,f,190
+George Gervin,gervige01,West,1983,NBA,f,180
+Artis Gilmore,gilmoar01,West,1983,NBA,f,240
+Magic Johnson,johnsma02,West,1983,NBA,f,215
+Maurice Lucas,lucasma01,West,1983,NBA,f,215
+Jim Paxson,paxsoji02,West,1983,NBA,f,200
+Jack Sikma,sikmaja01,West,1983,NBA,f,230
+David Thompson,thompda01,West,1983,NBA,f,195
+Kiki Vandeweghe,vandeki01,West,1983,NBA,f,220
+Jamaal Wilkes,wilkeja01,West,1983,NBA,f,190
+Gus Williams,willigu01,West,1983,NBA,f,175
+Tiny Archibald,architi01,East,1982,NBA,f,150
+Larry Bird,birdla01,East,1982,NBA,f,220
+Julius Erving,ervinju01,East,1982,NBA,f,210
+Artis Gilmore,gilmoar01,East,1982,NBA,f,240
+Bobby Jones,jonesbo01,East,1982,NBA,f,210
+Bob Lanier,laniebo01,East,1982,NBA,f,250
+Sidney Moncrief,moncrsi01,East,1982,NBA,f,180
+Robert Parish,parisro01,East,1982,NBA,f,230
+Michael Ray Richardson,richami01,East,1982,NBA,f,189
+Dan Roundfield,roundda01,East,1982,NBA,t,205
+Isiah Thomas,thomais01,East,1982,NBA,f,180
+Kelly Tripucka,tripuke01,East,1982,NBA,t,220
+Buck Williams,willibu01,East,1982,NBA,f,215
+Kareem Abdul-Jabbar,abdulka01,West,1982,NBA,f,225
+Adrian Dantley,dantlad01,West,1982,NBA,f,208
+Alex English,englial01,West,1982,NBA,f,190
+George Gervin,gervige01,West,1982,NBA,f,180
+Dennis Johnson,johnsde01,West,1982,NBA,f,185
+Magic Johnson,johnsma02,West,1982,NBA,f,215
+Bernard King,kingbe01,West,1982,NBA,f,205
+Moses Malone,malonmo01,West,1982,NBA,f,215
+Norm Nixon,nixonno01,West,1982,NBA,f,170
+Lonnie Shelton,sheltlo01,West,1982,NBA,f,240
+Jack Sikma,sikmaja01,West,1982,NBA,f,230
+Gus Williams,willigu01,West,1982,NBA,f,175
+Tiny Archibald,architi01,East,1981,NBA,f,150
+Larry Bird,birdla01,East,1981,NBA,f,220
+Julius Erving,ervinju01,East,1981,NBA,f,210
+Artis Gilmore,gilmoar01,East,1981,NBA,f,240
+Eddie Johnson,johnsed02,East,1981,NBA,f,180
+Marques Johnson,johnsma01,East,1981,NBA,f,218
+Bobby Jones,jonesbo01,East,1981,NBA,f,210
+Mike Mitchell,mitchmi01,East,1981,NBA,t,215
+Robert Parish,parisro01,East,1981,NBA,f,230
+Michael Ray Richardson,richami01,East,1981,NBA,f,189
+Dan Roundfield,roundda01,East,1981,NBA,t,205
+Reggie Theus,theusre01,East,1981,NBA,f,190
+Kareem Abdul-Jabbar,abdulka01,West,1981,NBA,f,225
+Otis Birdsong,birdsot01,West,1981,NBA,f,190
+Adrian Dantley,dantlad01,West,1981,NBA,f,208
+Walter Davis,daviswa03,West,1981,NBA,f,193
+George Gervin,gervige01,West,1981,NBA,f,180
+Dennis Johnson,johnsde01,West,1981,NBA,f,185
+Moses Malone,malonmo01,West,1981,NBA,f,215
+Truck Robinson,robintr01,West,1981,NBA,f,225
+Jack Sikma,sikmaja01,West,1981,NBA,f,230
+Paul Westphal,westppa01,West,1981,NBA,f,195
+Jamaal Wilkes,wilkeja01,West,1981,NBA,f,190
+Tiny Archibald,architi01,East,1980,NBA,f,150
+Larry Bird,birdla01,East,1980,NBA,f,220
+Bill Cartwright,cartwbi01,East,1980,NBA,t,245
+Dave Cowens,cowenda01,East,1980,NBA,t,230
+John Drew,drewjo01,East,1980,NBA,f,205
+Julius Erving,ervinju01,East,1980,NBA,f,210
+George Gervin,gervige01,East,1980,NBA,f,180
+Elvin Hayes,hayesel01,East,1980,NBA,f,235
+Eddie Johnson,johnsed02,East,1980,NBA,f,180
+Moses Malone,malonmo01,East,1980,NBA,f,215
+Michael Ray Richardson,richami01,East,1980,NBA,f,189
+Dan Roundfield,roundda01,East,1980,NBA,f,205
+Kareem Abdul-Jabbar,abdulka01,West,1980,NBA,f,225
+Otis Birdsong,birdsot01,West,1980,NBA,f,190
+Adrian Dantley,dantlad01,West,1980,NBA,f,208
+Walter Davis,daviswa03,West,1980,NBA,f,193
+World B. Free,freewo01,West,1980,NBA,f,190
+Dennis Johnson,johnsde01,West,1980,NBA,f,185
+Marques Johnson,johnsma01,West,1980,NBA,f,218
+Magic Johnson,johnsma02,West,1980,NBA,f,215
+Jack Sikma,sikmaja01,West,1980,NBA,f,230
+Kermit Washington,washike01,West,1980,NBA,t,230
+Scott Wedman,wedmasc01,West,1980,NBA,t,215
+Paul Westphal,westppa01,West,1980,NBA,f,195
+Doug Collins,collido01,East,1979,NBA,t,180
+Bob Dandridge,dandrbo01,East,1979,NBA,f,195
+Julius Erving,ervinju01,East,1979,NBA,f,210
+George Gervin,gervige01,East,1979,NBA,f,180
+Elvin Hayes,hayesel01,East,1979,NBA,f,235
+Larry Kenon,kenonla01,East,1979,NBA,f,205
+Bob Lanier,laniebo01,East,1979,NBA,f,250
+Moses Malone,malonmo01,East,1979,NBA,f,215
+Pete Maravich,maravpe01,East,1979,NBA,f,197
+Calvin Murphy,murphca01,East,1979,NBA,f,165
+Campy Russell,russeca02,East,1979,NBA,f,215
+Rudy Tomjanovich,tomjaru01,East,1979,NBA,f,218
+Kareem Abdul-Jabbar,abdulka01,West,1979,NBA,f,225
+Otis Birdsong,birdsot01,West,1979,NBA,f,190
+Walter Davis,daviswa03,West,1979,NBA,f,193
+Artis Gilmore,gilmoar01,West,1979,NBA,f,240
+Dennis Johnson,johnsde01,West,1979,NBA,f,185
+Marques Johnson,johnsma01,West,1979,NBA,f,218
+Maurice Lucas,lucasma01,West,1979,NBA,f,215
+George McGinnis,mcginge01,West,1979,NBA,f,235
+Jack Sikma,sikmaja01,West,1979,NBA,f,230
+David Thompson,thompda01,West,1979,NBA,f,195
+Paul Westphal,westppa01,West,1979,NBA,f,195
+Doug Collins,collido01,East,1978,NBA,f,180
+Dave Cowens,cowenda01,East,1978,NBA,f,230
+Julius Erving,ervinju01,East,1978,NBA,f,210
+George Gervin,gervige01,East,1978,NBA,f,180
+John Havlicek,havlijo01,East,1978,NBA,t,203
+Elvin Hayes,hayesel01,East,1978,NBA,t,235
+Larry Kenon,kenonla01,East,1978,NBA,f,205
+Billy Knight,knighbi01,East,1978,NBA,t,195
+Moses Malone,malonmo01,East,1978,NBA,f,215
+Pete Maravich,maravpe01,East,1978,NBA,t,197
+Bob McAdoo,mcadobo01,East,1978,NBA,f,210
+Truck Robinson,robintr01,East,1978,NBA,f,225
+Randy Smith,smithra01,East,1978,NBA,f,180
+Rick Barry,barryri01,West,1978,NBA,f,205
+Walter Davis,daviswa03,West,1978,NBA,f,193
+Artis Gilmore,gilmoar01,West,1978,NBA,f,240
+Lionel Hollins,hollili01,West,1978,NBA,f,185
+Bobby Jones,jonesbo01,West,1978,NBA,f,210
+Bob Lanier,laniebo01,West,1978,NBA,f,250
+Maurice Lucas,lucasma01,West,1978,NBA,f,215
+David Thompson,thompda01,West,1978,NBA,f,195
+Bill Walton,waltobi01,West,1978,NBA,f,210
+Paul Westphal,westppa01,West,1978,NBA,f,195
+Brian Winters,wintebr01,West,1978,NBA,f,185
+Phil Chenier,cheniph01,East,1977,NBA,t,180
+Doug Collins,collido01,East,1977,NBA,f,180
+Dave Cowens,cowenda01,East,1977,NBA,t,230
+Julius Erving,ervinju01,East,1977,NBA,f,210
+George Gervin,gervige01,East,1977,NBA,f,180
+John Havlicek,havlijo01,East,1977,NBA,f,203
+Elvin Hayes,hayesel01,East,1977,NBA,f,235
+Pete Maravich,maravpe01,East,1977,NBA,f,197
+Bob McAdoo,mcadobo01,East,1977,NBA,f,210
+George McGinnis,mcginge01,East,1977,NBA,f,235
+Earl Monroe,monroea01,East,1977,NBA,f,185
+Rudy Tomjanovich,tomjaru01,East,1977,NBA,f,218
+Jo Jo White,whitejo01,East,1977,NBA,f,190
+Kareem Abdul-Jabbar,abdulka01,West,1977,NBA,f,225
+Rick Barry,barryri01,West,1977,NBA,f,205
+Don Buse,busedo01,West,1977,NBA,t,190
+Dan Issel,isselda01,West,1977,NBA,f,235
+Bobby Jones,jonesbo01,West,1977,NBA,f,210
+Billy Knight,knighbi01,West,1977,NBA,f,195
+Bob Lanier,laniebo01,West,1977,NBA,f,250
+Maurice Lucas,lucasma01,West,1977,NBA,f,215
+Phil Smith,smithph01,West,1977,NBA,f,185
+David Thompson,thompda01,West,1977,NBA,f,195
+Norm Van Lier,vanlino01,West,1977,NBA,f,173
+Bill Walton,waltobi01,West,1977,NBA,t,210
+Paul Westphal,westppa01,West,1977,NBA,f,195
+Marvin Barnes,barnema01,All Stars,1976,ABA,f,225
+Ron Boone,boonero01,All Stars,1976,ABA,f,200
+Don Buse,busedo01,All Stars,1976,ABA,f,190
+Julius Erving,ervinju01,All Stars,1976,ABA,f,210
+George Gervin,gervige01,All Stars,1976,ABA,f,180
+Artis Gilmore,gilmoar01,All Stars,1976,ABA,f,240
+Larry Kenon,kenonla01,All Stars,1976,ABA,f,205
+Billy Knight,knighbi01,All Stars,1976,ABA,f,195
+Maurice Lucas,lucasma01,All Stars,1976,ABA,f,215
+Billy Paultz,paultbi01,All Stars,1976,ABA,f,235
+James Silas,silasja01,All Stars,1976,ABA,f,180
+Brian Taylor,taylobr01,All Stars,1976,ABA,f,185
+Byron Beck,beckby01,Denver,1976,ABA,f,225
+Roger Brown,brownro02,Denver,1976,ABA,f,225
+Jimmy Foster,fosteja01,Denver,1976,ABA,f,175
+Gus Gerard,gerargu01,Denver,1976,ABA,f,200
+Dan Issel,isselda01,Denver,1976,ABA,f,235
+Bobby Jones,jonesbo01,Denver,1976,ABA,f,210
+Ralph Simpson,simpsra01,Denver,1976,ABA,f,200
+Claude Terry,terrycl01,Denver,1976,ABA,f,195
+David Thompson,thompda01,Denver,1976,ABA,f,195
+Monte Towe,towemo01,Denver,1976,ABA,f,150
+Chuck Williams,willich02,Denver,1976,ABA,f,175
+Dave Bing,bingda01,East,1976,NBA,f,180
+Doug Collins,collido01,East,1976,NBA,f,180
+Dave Cowens,cowenda01,East,1976,NBA,f,230
+John Drew,drewjo01,East,1976,NBA,f,205
+Walt Frazier,fraziwa01,East,1976,NBA,f,200
+John Havlicek,havlijo01,East,1976,NBA,f,203
+Elvin Hayes,hayesel01,East,1976,NBA,f,235
+Bob McAdoo,mcadobo01,East,1976,NBA,f,210
+George McGinnis,mcginge01,East,1976,NBA,f,235
+Randy Smith,smithra01,East,1976,NBA,f,180
+Rudy Tomjanovich,tomjaru01,East,1976,NBA,f,218
+Jo Jo White,whitejo01,East,1976,NBA,f,190
+Kareem Abdul-Jabbar,abdulka01,West,1976,NBA,f,225
+Alvan Adams,adamsal01,West,1976,NBA,f,210
+Tiny Archibald,architi01,West,1976,NBA,f,150
+Rick Barry,barryri01,West,1976,NBA,f,205
+Fred Brown,brownfr01,West,1976,NBA,f,182
+Bob Dandridge,dandrbo01,West,1976,NBA,f,195
+Curtis Rowe,rowecu01,West,1976,NBA,f,225
+Phil Smith,smithph01,West,1976,NBA,f,185
+Norm Van Lier,vanlino01,West,1976,NBA,f,173
+Scott Wedman,wedmasc01,West,1976,NBA,f,215
+Jamaal Wilkes,wilkeja01,West,1976,NBA,f,190
+Brian Winters,wintebr01,West,1976,NBA,f,185
+Marvin Barnes,barnema01,East,1975,ABA,f,225
+Louie Dampier,dampilo01,East,1975,ABA,f,170
+Julius Erving,ervinju01,East,1975,ABA,f,210
+Artis Gilmore,gilmoar01,East,1975,ABA,f,240
+Dan Issel,isselda01,East,1975,ABA,f,235
+Stew Johnson,johnsst01,East,1975,ABA,f,220
+Larry Kenon,kenonla01,East,1975,ABA,f,205
+Freddie Lewis,lewisfr02,East,1975,ABA,f,175
+Billy Paultz,paultbi01,East,1975,ABA,f,235
+Brian Taylor,taylobr01,East,1975,ABA,f,185
+Dave Twardzik,twardda01,East,1975,ABA,f,175
+Ron Boone,boonero01,West,1975,ABA,f,200
+Mack Calvin,calvima01,West,1975,ABA,f,165
+George Gervin,gervige01,West,1975,ABA,f,180
+Mike Green,greenmi01,West,1975,ABA,f,200
+Caldwell Jones,jonesca01,West,1975,ABA,f,217
+Moses Malone,malonmo01,West,1975,ABA,f,215
+George McGinnis,mcginge01,West,1975,ABA,f,235
+Swen Nater,natersw01,West,1975,ABA,f,240
+James Silas,silasja01,West,1975,ABA,f,180
+Ralph Simpson,simpsra01,West,1975,ABA,f,200
+Phil Chenier,cheniph01,East,1975,NBA,f,180
+Dave Cowens,cowenda01,East,1975,NBA,f,230
+Walt Frazier,fraziwa01,East,1975,NBA,f,200
+John Havlicek,havlijo01,East,1975,NBA,f,203
+Elvin Hayes,hayesel01,East,1975,NBA,f,235
+Bob McAdoo,mcadobo01,East,1975,NBA,f,210
+Steve Mix,mixst01,East,1975,NBA,f,215
+Earl Monroe,monroea01,East,1975,NBA,f,185
+Paul Silas,silaspa01,East,1975,NBA,f,220
+Rudy Tomjanovich,tomjaru01,East,1975,NBA,f,218
+Wes Unseld,unselwe01,East,1975,NBA,f,245
+Jo Jo White,whitejo01,East,1975,NBA,f,190
+Kareem Abdul-Jabbar,abdulka01,West,1975,NBA,f,225
+Tiny Archibald,architi01,West,1975,NBA,f,150
+Rick Barry,barryri01,West,1975,NBA,f,205
+Dave Bing,bingda01,West,1975,NBA,f,180
+Bob Dandridge,dandrbo01,West,1975,NBA,f,195
+Gail Goodrich,goodrga01,West,1975,NBA,f,170
+Spencer Haywood,haywosp01,West,1975,NBA,f,225
+Sam Lacey,laceysa01,West,1975,NBA,f,235
+Bob Lanier,laniebo01,West,1975,NBA,f,250
+Jim Price,priceji01,West,1975,NBA,f,195
+Charlie Scott,scottch01,West,1975,NBA,f,175
+Sidney Wicks,wickssi01,West,1975,NBA,f,225
+Mack Calvin,calvima01,East,1974,ABA,f,165
+Louie Dampier,dampilo01,East,1974,ABA,f,170
+Jim Eakins,eakinji01,East,1974,ABA,f,215
+Julius Erving,ervinju01,East,1974,ABA,f,210
+George Gervin,gervige01,East,1974,ABA,f,180
+Artis Gilmore,gilmoar01,East,1974,ABA,f,240
+Dan Issel,isselda01,East,1974,ABA,f,235
+Larry Kenon,kenonla01,East,1974,ABA,f,205
+Ted McClain,mcclate01,East,1974,ABA,f,180
+Billy Paultz,paultbi01,East,1974,ABA,t,235
+George Thompson,thompge01,East,1974,ABA,f,200
+Ron Boone,boonero01,West,1974,ABA,f,200
+Mel Daniels,danieme01,West,1974,ABA,f,220
+Warren Jabali,jabalwa01,West,1974,ABA,f,200
+Stew Johnson,johnsst01,West,1974,ABA,f,220
+Jimmy Jones,jonesji01,West,1974,ABA,f,188
+Rich Jones,jonesri01,West,1974,ABA,f,220
+George McGinnis,mcginge01,West,1974,ABA,f,235
+Swen Nater,natersw01,West,1974,ABA,f,240
+Ralph Simpson,simpsra01,West,1974,ABA,f,200
+Willie Wise,wisewi01,West,1974,ABA,f,210
+Austin Carr,carrau01,East,1974,NBA,f,200
+Phil Chenier,cheniph01,East,1974,NBA,f,180
+Dave Cowens,cowenda01,East,1974,NBA,f,230
+Dave DeBusschere,debusda01,East,1974,NBA,f,220
+Walt Frazier,fraziwa01,East,1974,NBA,f,200
+John Havlicek,havlijo01,East,1974,NBA,f,203
+Elvin Hayes,hayesel01,East,1974,NBA,f,235
+Lou Hudson,hudsolo01,East,1974,NBA,f,210
+Pete Maravich,maravpe01,East,1974,NBA,f,197
+Bob McAdoo,mcadobo01,East,1974,NBA,f,210
+Rudy Tomjanovich,tomjaru01,East,1974,NBA,f,218
+Jo Jo White,whitejo01,East,1974,NBA,f,190
+Kareem Abdul-Jabbar,abdulka01,West,1974,NBA,f,225
+Rick Barry,barryri01,West,1974,NBA,f,205
+Dave Bing,bingda01,West,1974,NBA,f,180
+Gail Goodrich,goodrga01,West,1974,NBA,f,170
+Spencer Haywood,haywosp01,West,1974,NBA,f,225
+Bob Lanier,laniebo01,West,1974,NBA,f,250
+Geoff Petrie,petrige01,West,1974,NBA,f,190
+Charlie Scott,scottch01,West,1974,NBA,t,175
+Nate Thurmond,thurmna01,West,1974,NBA,f,225
+Norm Van Lier,vanlino01,West,1974,NBA,f,173
+Chet Walker,walkech01,West,1974,NBA,f,212
+Jerry West,westje01,West,1974,NBA,t,175
+Sidney Wicks,wickssi01,West,1974,NBA,f,225
+Joe Caldwell,caldwjo01,East,1973,ABA,f,195
+Mack Calvin,calvima01,East,1973,ABA,f,165
+Billy Cunningham,cunnibi01,East,1973,ABA,f,210
+Louie Dampier,dampilo01,East,1973,ABA,f,170
+Julius Erving,ervinju01,East,1973,ABA,f,210
+Artis Gilmore,gilmoar01,East,1973,ABA,f,240
+Dan Issel,isselda01,East,1973,ABA,f,235
+Bill Melchionni,melchbi01,East,1973,ABA,f,165
+Billy Paultz,paultbi01,East,1973,ABA,f,235
+George Thompson,thompge01,East,1973,ABA,f,200
+Zelmo Beaty,beatyze01,West,1973,ABA,f,225
+Mel Daniels,danieme01,West,1973,ABA,f,220
+Warren Jabali,jabalwa01,West,1973,ABA,f,200
+Stew Johnson,johnsst01,West,1973,ABA,f,220
+Jimmy Jones,jonesji01,West,1973,ABA,f,188
+Rich Jones,jonesri01,West,1973,ABA,f,220
+George McGinnis,mcginge01,West,1973,ABA,f,235
+Ralph Simpson,simpsra01,West,1973,ABA,f,200
+Chuck Williams,willich02,West,1973,ABA,f,175
+Willie Wise,wisewi01,West,1973,ABA,f,210
+John Block,blockjo01,East,1973,NBA,f,207
+Bill Bradley,bradlbi01,East,1973,NBA,f,205
+Dave Cowens,cowenda01,East,1973,NBA,f,230
+Dave DeBusschere,debusda01,East,1973,NBA,f,220
+Walt Frazier,fraziwa01,East,1973,NBA,f,200
+John Havlicek,havlijo01,East,1973,NBA,f,203
+Elvin Hayes,hayesel01,East,1973,NBA,f,235
+Lou Hudson,hudsolo01,East,1973,NBA,f,210
+Bob Kauffman,kauffbo01,East,1973,NBA,f,240
+Pete Maravich,maravpe01,East,1973,NBA,f,197
+Jack Marin,marinja01,East,1973,NBA,f,200
+Wes Unseld,unselwe01,East,1973,NBA,f,245
+Jo Jo White,whitejo01,East,1973,NBA,f,190
+Lenny Wilkens,wilkele01,East,1973,NBA,f,180
+Kareem Abdul-Jabbar,abdulka01,West,1973,NBA,t,225
+Tiny Archibald,architi01,West,1973,NBA,f,150
+Rick Barry,barryri01,West,1973,NBA,t,205
+Dave Bing,bingda01,West,1973,NBA,f,180
+Wilt Chamberlain,chambwi01,West,1973,NBA,f,275
+Bob Dandridge,dandrbo01,West,1973,NBA,f,195
+Gail Goodrich,goodrga01,West,1973,NBA,f,170
+Connie Hawkins,hawkico01,West,1973,NBA,t,210
+Spencer Haywood,haywosp01,West,1973,NBA,f,225
+Bob Lanier,laniebo01,West,1973,NBA,f,250
+Bob Love,lovebo01,West,1973,NBA,t,215
+Charlie Scott,scottch01,West,1973,NBA,f,175
+Nate Thurmond,thurmna01,West,1973,NBA,f,225
+Chet Walker,walkech01,West,1973,NBA,f,212
+Jerry West,westje01,West,1973,NBA,f,175
+Sidney Wicks,wickssi01,West,1973,NBA,f,225
+Rick Barry,barryri01,East,1972,ABA,f,205
+John Brisker,briskjo01,East,1972,ABA,f,210
+Mack Calvin,calvima01,East,1972,ABA,f,165
+Louie Dampier,dampilo01,East,1972,ABA,f,170
+Julius Erving,ervinju01,East,1972,ABA,f,210
+Artis Gilmore,gilmoar01,East,1972,ABA,f,240
+Dan Issel,isselda01,East,1972,ABA,f,235
+Warren Jabali,jabalwa01,East,1972,ABA,f,200
+Jim McDaniels,mcdanji01,East,1972,ABA,f,228
+Bill Melchionni,melchbi01,East,1972,ABA,f,165
+Charlie Scott,scottch01,East,1972,ABA,f,175
+George Thompson,thompge01,East,1972,ABA,f,200
+Zelmo Beaty,beatyze01,West,1972,ABA,f,225
+Art Becker,beckear01,West,1972,ABA,f,205
+Roger Brown,brownro01,West,1972,ABA,f,205
+Glen Combs,combsgl01,West,1972,ABA,f,185
+Mel Daniels,danieme01,West,1972,ABA,f,220
+Donnie Freeman,freemdo01,West,1972,ABA,f,185
+Steve Jones,jonesst01,West,1972,ABA,f,205
+Wil Jones,joneswi02,West,1972,ABA,f,205
+Wendell Ladner,ladnewe01,West,1972,ABA,f,220
+Freddie Lewis,lewisfr02,West,1972,ABA,f,175
+Ralph Simpson,simpsra01,West,1972,ABA,f,200
+Willie Wise,wisewi01,West,1972,ABA,f,210
+Butch Beard,beardbu01,East,1972,NBA,f,185
+Archie Clark,clarkar01,East,1972,NBA,f,175
+Dave Cowens,cowenda01,East,1972,NBA,f,230
+Billy Cunningham,cunnibi01,East,1972,NBA,f,210
+Dave DeBusschere,debusda01,East,1972,NBA,f,220
+Walt Frazier,fraziwa01,East,1972,NBA,f,200
+John Havlicek,havlijo01,East,1972,NBA,f,203
+Lou Hudson,hudsolo01,East,1972,NBA,f,210
+John Johnson,johnsjo01,East,1972,NBA,f,200
+Bob Kauffman,kauffbo01,East,1972,NBA,f,240
+Jack Marin,marinja01,East,1972,NBA,f,200
+Wes Unseld,unselwe01,East,1972,NBA,f,245
+Tom Van Arsdale,vanarto01,East,1972,NBA,f,202
+Jo Jo White,whitejo01,East,1972,NBA,f,190
+Kareem Abdul-Jabbar,abdulka01,West,1972,NBA,f,225
+Wilt Chamberlain,chambwi01,West,1972,NBA,f,275
+Gail Goodrich,goodrga01,West,1972,NBA,f,170
+Connie Hawkins,hawkico01,West,1972,NBA,f,210
+Elvin Hayes,hayesel01,West,1972,NBA,f,235
+Spencer Haywood,haywosp01,West,1972,NBA,f,225
+Bob Lanier,laniebo01,West,1972,NBA,f,250
+Bob Love,lovebo01,West,1972,NBA,f,215
+Oscar Robertson,roberos01,West,1972,NBA,f,205
+Cazzie Russell,russeca01,West,1972,NBA,f,218
+Paul Silas,silaspa01,West,1972,NBA,f,220
+Jimmy Walker,walkeji01,West,1972,NBA,f,195
+Jerry West,westje01,West,1972,NBA,f,175
+Sidney Wicks,wickssi01,West,1972,NBA,f,225
+Rick Barry,barryri01,East,1971,ABA,f,205
+John Brisker,briskjo01,East,1971,ABA,f,210
+Joe Caldwell,caldwjo01,East,1971,ABA,f,195
+Mack Calvin,calvima01,East,1971,ABA,f,165
+George Carter,cartege01,East,1971,ABA,f,210
+Dan Issel,isselda01,East,1971,ABA,f,235
+Neil Johnson,johnsne02,East,1971,ABA,f,220
+Larry Jones,jonesla01,East,1971,ABA,f,180
+Mike Lewis,lewismi01,East,1971,ABA,f,225
+Bill Melchionni,melchbi01,East,1971,ABA,f,165
+Cincy Powell,powelci01,East,1971,ABA,f,220
+Charlie Scott,scottch01,East,1971,ABA,f,175
+Zelmo Beaty,beatyze01,West,1971,ABA,f,225
+Ron Boone,boonero01,West,1971,ABA,f,200
+Roger Brown,brownro01,West,1971,ABA,f,205
+Glen Combs,combsgl01,West,1971,ABA,f,185
+Mel Daniels,danieme01,West,1971,ABA,f,220
+Donnie Freeman,freemdo01,West,1971,ABA,f,185
+Jimmy Jones,jonesji01,West,1971,ABA,f,188
+Steve Jones,jonesst01,West,1971,ABA,f,205
+Julius Keye,keyeju01,West,1971,ABA,f,200
+Wendell Ladner,ladnewe01,West,1971,ABA,f,220
+Bob Netolicky,netolbo01,West,1971,ABA,f,220
+Red Robbins,robbire01,West,1971,ABA,f,190
+Billy Cunningham,cunnibi01,East,1971,NBA,f,210
+Dave DeBusschere,debusda01,East,1971,NBA,f,220
+Walt Frazier,fraziwa01,East,1971,NBA,f,200
+Johnny Green,greenjo01,East,1971,NBA,f,200
+John Havlicek,havlijo01,East,1971,NBA,f,203
+Lou Hudson,hudsolo01,East,1971,NBA,f,210
+Gus Johnson,johnsgu01,East,1971,NBA,f,230
+John Johnson,johnsjo01,East,1971,NBA,f,200
+Bob Kauffman,kauffbo01,East,1971,NBA,f,240
+Earl Monroe,monroea01,East,1971,NBA,f,185
+Willis Reed,reedwi01,East,1971,NBA,f,235
+Wes Unseld,unselwe01,East,1971,NBA,f,245
+Tom Van Arsdale,vanarto01,East,1971,NBA,f,202
+Jo Jo White,whitejo01,East,1971,NBA,f,190
+Kareem Abdul-Jabbar,abdulka01,West,1971,NBA,f,225
+Dave Bing,bingda01,West,1971,NBA,f,180
+Wilt Chamberlain,chambwi01,West,1971,NBA,f,275
+Connie Hawkins,hawkico01,West,1971,NBA,f,210
+Elvin Hayes,hayesel01,West,1971,NBA,f,235
+Bob Love,lovebo01,West,1971,NBA,f,215
+Jerry Lucas,lucasje01,West,1971,NBA,f,230
+Jeff Mullins,mullije01,West,1971,NBA,f,190
+Geoff Petrie,petrige01,West,1971,NBA,f,190
+Oscar Robertson,roberos01,West,1971,NBA,f,205
+Dick Van Arsdale,vanardi01,West,1971,NBA,f,210
+Chet Walker,walkech01,West,1971,NBA,f,212
+Jerry West,westje01,West,1971,NBA,f,175
+Lenny Wilkens,wilkele01,West,1971,NBA,f,180
+Roger Brown,brownro01,East,1970,ABA,f,205
+Darel Carrier,carrida01,East,1970,ABA,f,185
+Louie Dampier,dampilo01,East,1970,ABA,f,170
+Mel Daniels,danieme01,East,1970,ABA,f,220
+Donnie Freeman,freemdo01,East,1970,ABA,f,185
+Mike Lewis,lewismi01,East,1970,ABA,f,225
+Doug Moe,moedo01,East,1970,ABA,f,215
+Gene Moore,moorege01,East,1970,ABA,f,225
+Bob Netolicky,netolbo01,East,1970,ABA,f,220
+Levern Tart,tartle01,East,1970,ABA,f,195
+Bob Verga,vergabo01,East,1970,ABA,f,190
+Charlie Williams,willich01,East,1970,ABA,f,165
+Rick Barry,barryri01,West,1970,ABA,f,205
+John Beasley,beasljo01,West,1970,ABA,f,225
+Larry Brown,brownla01,West,1970,ABA,f,160
+Glen Combs,combsgl01,West,1970,ABA,f,185
+Warren Davis,daviswa02,West,1970,ABA,f,212
+Gerald Govan,govange01,West,1970,ABA,t,220
+Spencer Haywood,haywosp01,West,1970,ABA,f,225
+Warren Jabali,jabalwa01,West,1970,ABA,f,200
+Jimmy Jones,jonesji01,West,1970,ABA,f,188
+Larry Jones,jonesla01,West,1970,ABA,f,180
+Steve Jones,jonesst01,West,1970,ABA,f,205
+Cincy Powell,powelci01,West,1970,ABA,f,220
+Red Robbins,robbire01,West,1970,ABA,t,190
+Kareem Abdul-Jabbar,abdulka01,East,1970,NBA,f,225
+Billy Cunningham,cunnibi01,East,1970,NBA,f,210
+Dave DeBusschere,debusda01,East,1970,NBA,f,220
+Walt Frazier,fraziwa01,East,1970,NBA,f,200
+Hal Greer,greerha01,East,1970,NBA,f,175
+John Havlicek,havlijo01,East,1970,NBA,f,203
+Gus Johnson,johnsgu01,East,1970,NBA,f,230
+Willis Reed,reedwi01,East,1970,NBA,f,235
+Oscar Robertson,roberos01,East,1970,NBA,f,205
+Flynn Robinson,robinfl01,East,1970,NBA,f,185
+Tom Van Arsdale,vanarto01,East,1970,NBA,f,202
+Jimmy Walker,walkeji01,East,1970,NBA,f,195
+Elgin Baylor,bayloel01,West,1970,NBA,f,225
+Bill Bridges,bridgbi01,West,1970,NBA,f,228
+Joe Caldwell,caldwjo01,West,1970,NBA,f,195
+Connie Hawkins,hawkico01,West,1970,NBA,f,210
+Elvin Hayes,hayesel01,West,1970,NBA,f,235
+Lou Hudson,hudsolo01,West,1970,NBA,f,210
+Jeff Mullins,mullije01,West,1970,NBA,f,190
+Bob Rule,rulebo01,West,1970,NBA,t,220
+Nate Thurmond,thurmna01,West,1970,NBA,t,225
+Dick Van Arsdale,vanardi01,West,1970,NBA,f,210
+Chet Walker,walkech01,West,1970,NBA,f,212
+Jerry West,westje01,West,1970,NBA,f,175
+Lenny Wilkens,wilkele01,West,1970,NBA,f,180
+Darel Carrier,carrida01,East,1969,ABA,f,185
+Louie Dampier,dampilo01,East,1969,ABA,f,170
+Mel Daniels,danieme01,East,1969,ABA,f,220
+Donnie Freeman,freemdo01,East,1969,ABA,f,185
+Connie Hawkins,hawkico01,East,1969,ABA,t,210
+Art Heyman,heymaar01,East,1969,ABA,t,205
+Les Hunter,huntele01,East,1969,ABA,f,210
+Goose Ligon,ligongo01,East,1969,ABA,f,210
+Bob Netolicky,netolbo01,East,1969,ABA,f,220
+Walt Simon,simonwa01,East,1969,ABA,f,200
+Skip Thoren,thoresk01,East,1969,ABA,f,230
+Trooper Washington,washitr01,East,1969,ABA,f,215
+Charlie Williams,willich01,East,1969,ABA,f,165
+Rick Barry,barryri01,West,1969,ABA,f,205
+John Beasley,beasljo01,West,1969,ABA,f,225
+Byron Beck,beckby01,West,1969,ABA,f,225
+Larry Brown,brownla01,West,1969,ABA,f,160
+Warren Davis,daviswa02,West,1969,ABA,f,212
+Wayne Hightower,hightwa01,West,1969,ABA,f,192
+Merv Jackson,jacksme01,West,1969,ABA,f,175
+Jimmy Jones,jonesji01,West,1969,ABA,f,188
+Larry Jones,jonesla01,West,1969,ABA,f,180
+Doug Moe,moedo01,West,1969,ABA,f,215
+Red Robbins,robbire01,West,1969,ABA,f,190
+Willie Somerset,somerwi01,West,1969,ABA,f,170
+Dave Bing,bingda01,East,1969,NBA,f,180
+Billy Cunningham,cunnibi01,East,1969,NBA,f,210
+Hal Greer,greerha01,East,1969,NBA,f,175
+John Havlicek,havlijo01,East,1969,NBA,f,203
+Gus Johnson,johnsgu01,East,1969,NBA,f,230
+Jerry Lucas,lucasje01,East,1969,NBA,f,230
+Jon McGlocklin,mcglojo01,East,1969,NBA,f,205
+Earl Monroe,monroea01,East,1969,NBA,f,185
+Willis Reed,reedwi01,East,1969,NBA,f,235
+Oscar Robertson,roberos01,East,1969,NBA,f,205
+Bill Russell,russebi01,East,1969,NBA,f,215
+Wes Unseld,unselwe01,East,1969,NBA,f,245
+Elgin Baylor,bayloel01,West,1969,NBA,f,225
+Joe Caldwell,caldwjo01,West,1969,NBA,f,195
+Wilt Chamberlain,chambwi01,West,1969,NBA,f,275
+Gail Goodrich,goodrga01,West,1969,NBA,t,170
+Elvin Hayes,hayesel01,West,1969,NBA,f,235
+Lou Hudson,hudsolo01,West,1969,NBA,f,210
+Don Kojis,kojisdo01,West,1969,NBA,f,215
+Rudy LaRusso,larusru01,West,1969,NBA,f,220
+Jeff Mullins,mullije01,West,1969,NBA,f,190
+Jerry Sloan,sloanje01,West,1969,NBA,f,195
+Dick Van Arsdale,vanardi01,West,1969,NBA,f,210
+Jerry West,westje01,West,1969,NBA,t,175
+Lenny Wilkens,wilkele01,West,1969,NBA,f,180
+Roger Brown,brownro01,East,1968,ABA,f,205
+Darel Carrier,carrida01,East,1968,ABA,f,185
+Louie Dampier,dampilo01,East,1968,ABA,f,170
+Mel Daniels,danieme01,East,1968,ABA,f,220
+Donnie Freeman,freemdo01,East,1968,ABA,f,185
+Connie Hawkins,hawkico01,East,1968,ABA,f,210
+Les Hunter,huntele01,East,1968,ABA,f,210
+Tony Jackson,jacksto01,East,1968,ABA,f,200
+Freddie Lewis,lewisfr02,East,1968,ABA,f,175
+Randy Mahaffey,mahafra01,East,1968,ABA,f,210
+Bob Netolicky,netolbo01,East,1968,ABA,f,220
+Chico Vaughn,vaughch01,East,1968,ABA,f,190
+John Beasley,beasljo01,West,1968,ABA,f,225
+Art Becker,beckear01,West,1968,ABA,f,205
+Larry Brown,brownla01,West,1968,ABA,f,160
+Larry Bunce,buncela01,West,1968,ABA,f,240
+Cliff Hagan,hagancl01,West,1968,ABA,f,210
+Jimmy Jones,jonesji01,West,1968,ABA,f,188
+Larry Jones,jonesla01,West,1968,ABA,f,180
+Dewitt Menyard,menyade01,West,1968,ABA,f,210
+Doug Moe,moedo01,West,1968,ABA,f,215
+Red Robbins,robbire01,West,1968,ABA,f,190
+Levern Tart,tartle01,West,1968,ABA,f,195
+Bob Verga,vergabo01,West,1968,ABA,t,190
+Ben Warley,warlebe01,West,1968,ABA,f,200
+Dick Barnett,barnedi01,East,1968,NBA,f,190
+Dave Bing,bingda01,East,1968,NBA,f,180
+Wilt Chamberlain,chambwi01,East,1968,NBA,f,275
+Dave DeBusschere,debusda01,East,1968,NBA,f,220
+Hal Greer,greerha01,East,1968,NBA,f,175
+John Havlicek,havlijo01,East,1968,NBA,f,203
+Gus Johnson,johnsgu01,East,1968,NBA,f,230
+Sam Jones,jonessa01,East,1968,NBA,f,198
+Jerry Lucas,lucasje01,East,1968,NBA,f,230
+Willis Reed,reedwi01,East,1968,NBA,f,235
+Oscar Robertson,roberos01,East,1968,NBA,f,205
+Bill Russell,russebi01,East,1968,NBA,f,215
+Walt Hazzard,abdulma01,West,1968,NBA,f,185
+Elgin Baylor,bayloel01,West,1968,NBA,f,225
+Zelmo Beaty,beatyze01,West,1968,NBA,f,225
+Bob Boozer,boozebo01,West,1968,NBA,f,215
+Bill Bridges,bridgbi01,West,1968,NBA,f,228
+Archie Clark,clarkar01,West,1968,NBA,f,175
+Jim King,kingji01,West,1968,NBA,f,175
+Don Kojis,kojisdo01,West,1968,NBA,f,215
+Rudy LaRusso,larusru01,West,1968,NBA,f,220
+Clyde Lee,leecl01,West,1968,NBA,t,205
+Nate Thurmond,thurmna01,West,1968,NBA,t,225
+Jerry West,westje01,West,1968,NBA,f,175
+Lenny Wilkens,wilkele01,West,1968,NBA,f,180
+Wilt Chamberlain,chambwi01,East,1967,NBA,f,275
+Hal Greer,greerha01,East,1967,NBA,f,175
+John Havlicek,havlijo01,East,1967,NBA,f,203
+Bailey Howell,howelba01,East,1967,NBA,f,210
+Jerry Lucas,lucasje01,East,1967,NBA,f,230
+Don Ohl,ohldo01,East,1967,NBA,f,190
+Willis Reed,reedwi01,East,1967,NBA,f,235
+Oscar Robertson,roberos01,East,1967,NBA,f,205
+Bill Russell,russebi01,East,1967,NBA,f,215
+Chet Walker,walkech01,East,1967,NBA,f,212
+Rick Barry,barryri01,West,1967,NBA,f,205
+Elgin Baylor,bayloel01,West,1967,NBA,f,225
+Bill Bridges,bridgbi01,West,1967,NBA,f,228
+Dave DeBusschere,debusda01,West,1967,NBA,f,220
+Darrall Imhoff,imhofda01,West,1967,NBA,f,220
+Guy Rodgers,rodgegu01,West,1967,NBA,f,185
+Jerry Sloan,sloanje01,West,1967,NBA,f,195
+Nate Thurmond,thurmna01,West,1967,NBA,f,225
+Jerry West,westje01,West,1967,NBA,f,175
+Lenny Wilkens,wilkele01,West,1967,NBA,f,180
+Wilt Chamberlain,chambwi01,East,1966,NBA,f,275
+Hal Greer,greerha01,East,1966,NBA,f,175
+John Havlicek,havlijo01,East,1966,NBA,f,203
+Sam Jones,jonessa01,East,1966,NBA,f,198
+Jerry Lucas,lucasje01,East,1966,NBA,f,230
+Willis Reed,reedwi01,East,1966,NBA,f,235
+Oscar Robertson,roberos01,East,1966,NBA,f,205
+Bill Russell,russebi01,East,1966,NBA,f,215
+Adrian Smith,smithad01,East,1966,NBA,f,180
+Chet Walker,walkech01,East,1966,NBA,f,212
+Rick Barry,barryri01,West,1966,NBA,f,205
+Zelmo Beaty,beatyze01,West,1966,NBA,f,225
+Dave DeBusschere,debusda01,West,1966,NBA,f,220
+Bailey Howell,howelba01,West,1966,NBA,f,210
+Rudy LaRusso,larusru01,West,1966,NBA,f,220
+Eddie Miles,milesed01,West,1966,NBA,f,195
+Don Ohl,ohldo01,West,1966,NBA,f,190
+Guy Rodgers,rodgegu01,West,1966,NBA,f,185
+Nate Thurmond,thurmna01,West,1966,NBA,f,225
+Jerry West,westje01,West,1966,NBA,f,175
+Larry Costello,costela01,East,1965,NBA,f,186
+Wayne Embry,embrywa01,East,1965,NBA,f,240
+Johnny Green,greenjo01,East,1965,NBA,t,200
+Hal Greer,greerha01,East,1965,NBA,f,175
+Tom Heinsohn,heinsto01,East,1965,NBA,t,218
+Luke Jackson,jackslu01,East,1965,NBA,f,240
+Sam Jones,jonessa01,East,1965,NBA,f,198
+Jerry Lucas,lucasje01,East,1965,NBA,f,230
+Willis Reed,reedwi01,East,1965,NBA,f,235
+Oscar Robertson,roberos01,East,1965,NBA,f,205
+Bill Russell,russebi01,East,1965,NBA,f,215
+Elgin Baylor,bayloel01,West,1965,NBA,f,225
+Walt Bellamy,bellawa01,West,1965,NBA,f,225
+Wilt Chamberlain,chambwi01,West,1965,NBA,f,275
+Terry Dischinger,dischte01,West,1965,NBA,f,189
+Gus Johnson,johnsgu01,West,1965,NBA,f,230
+Don Ohl,ohldo01,West,1965,NBA,f,190
+Bob Pettit,pettibo01,West,1965,NBA,f,205
+Nate Thurmond,thurmna01,West,1965,NBA,f,225
+Jerry West,westje01,West,1965,NBA,f,175
+Lenny Wilkens,wilkele01,West,1965,NBA,f,180
+Len Chappell,chapple01,East,1964,NBA,f,240
+Wayne Embry,embrywa01,East,1964,NBA,f,240
+Tom Gola,golato01,East,1964,NBA,f,205
+Hal Greer,greerha01,East,1964,NBA,f,175
+Tom Heinsohn,heinsto01,East,1964,NBA,f,218
+Sam Jones,jonessa01,East,1964,NBA,f,198
+Jerry Lucas,lucasje01,East,1964,NBA,f,230
+Oscar Robertson,roberos01,East,1964,NBA,f,205
+Bill Russell,russebi01,East,1964,NBA,f,215
+Chet Walker,walkech01,East,1964,NBA,f,212
+Elgin Baylor,bayloel01,West,1964,NBA,f,225
+Walt Bellamy,bellawa01,West,1964,NBA,f,225
+Wilt Chamberlain,chambwi01,West,1964,NBA,f,275
+Terry Dischinger,dischte01,West,1964,NBA,f,189
+Bailey Howell,howelba01,West,1964,NBA,f,210
+Don Ohl,ohldo01,West,1964,NBA,f,190
+Bob Pettit,pettibo01,West,1964,NBA,f,205
+Guy Rodgers,rodgegu01,West,1964,NBA,f,185
+Jerry West,westje01,West,1964,NBA,f,175
+Lenny Wilkens,wilkele01,West,1964,NBA,f,180
+Bob Cousy,cousybo01,East,1963,NBA,f,175
+Wayne Embry,embrywa01,East,1963,NBA,t,240
+Tom Gola,golato01,East,1963,NBA,f,205
+Johnny Green,greenjo01,East,1963,NBA,f,200
+Hal Greer,greerha01,East,1963,NBA,f,175
+Richie Guerin,gueriri01,East,1963,NBA,f,195
+Tom Heinsohn,heinsto01,East,1963,NBA,f,218
+Red Kerr,kerrre01,East,1963,NBA,f,230
+Oscar Robertson,roberos01,East,1963,NBA,f,205
+Bill Russell,russebi01,East,1963,NBA,f,215
+Lee Shaffer,shaffle01,East,1963,NBA,f,220
+Jack Twyman,twymaja01,East,1963,NBA,f,210
+Elgin Baylor,bayloel01,West,1963,NBA,f,225
+Walt Bellamy,bellawa01,West,1963,NBA,f,225
+Wilt Chamberlain,chambwi01,West,1963,NBA,f,275
+Terry Dischinger,dischte01,West,1963,NBA,f,189
+Bailey Howell,howelba01,West,1963,NBA,f,210
+Rudy LaRusso,larusru01,West,1963,NBA,f,220
+Tom Meschery,meschto01,West,1963,NBA,f,215
+Don Ohl,ohldo01,West,1963,NBA,f,190
+Bob Pettit,pettibo01,West,1963,NBA,f,205
+Guy Rodgers,rodgegu01,West,1963,NBA,f,185
+Jerry West,westje01,West,1963,NBA,f,175
+Lenny Wilkens,wilkele01,West,1963,NBA,f,180
+Paul Arizin,arizipa01,East,1962,NBA,f,190
+Wilt Chamberlain,chambwi01,East,1962,NBA,f,275
+Larry Costello,costela01,East,1962,NBA,t,186
+Bob Cousy,cousybo01,East,1962,NBA,f,175
+Tom Gola,golato01,East,1962,NBA,t,205
+Johnny Green,greenjo01,East,1962,NBA,t,200
+Hal Greer,greerha01,East,1962,NBA,f,175
+Richie Guerin,gueriri01,East,1962,NBA,f,195
+Tom Heinsohn,heinsto01,East,1962,NBA,f,218
+Sam Jones,jonessa01,East,1962,NBA,t,198
+Willie Naulls,naullwi01,East,1962,NBA,f,225
+Bill Russell,russebi01,East,1962,NBA,f,215
+Dolph Schayes,schaydo01,East,1962,NBA,f,220
+Elgin Baylor,bayloel01,West,1962,NBA,f,225
+Walt Bellamy,bellawa01,West,1962,NBA,f,225
+Wayne Embry,embrywa01,West,1962,NBA,f,240
+Cliff Hagan,hagancl01,West,1962,NBA,f,210
+Bailey Howell,howelba01,West,1962,NBA,f,210
+Rudy LaRusso,larusru01,West,1962,NBA,t,220
+Bob Pettit,pettibo01,West,1962,NBA,f,205
+Oscar Robertson,roberos01,West,1962,NBA,f,205
+Frank Selvy,selvyfr01,West,1962,NBA,f,180
+Gene Shue,shuege01,West,1962,NBA,f,170
+Jack Twyman,twymaja01,West,1962,NBA,f,210
+Jerry West,westje01,West,1962,NBA,f,175
+Paul Arizin,arizipa01,East,1961,NBA,f,190
+Wilt Chamberlain,chambwi01,East,1961,NBA,f,275
+Larry Costello,costela01,East,1961,NBA,f,186
+Bob Cousy,cousybo01,East,1961,NBA,f,175
+Tom Gola,golato01,East,1961,NBA,f,205
+Hal Greer,greerha01,East,1961,NBA,f,175
+Richie Guerin,gueriri01,East,1961,NBA,f,195
+Tom Heinsohn,heinsto01,East,1961,NBA,f,218
+Willie Naulls,naullwi01,East,1961,NBA,f,225
+Bill Russell,russebi01,East,1961,NBA,f,215
+Dolph Schayes,schaydo01,East,1961,NBA,f,220
+Elgin Baylor,bayloel01,West,1961,NBA,f,225
+Walter Dukes,dukeswa01,West,1961,NBA,f,220
+Wayne Embry,embrywa01,West,1961,NBA,f,240
+Cliff Hagan,hagancl01,West,1961,NBA,f,210
+Bailey Howell,howelba01,West,1961,NBA,f,210
+Hot Rod Hundley,hundlho01,West,1961,NBA,f,185
+Clyde Lovellette,lovelcl01,West,1961,NBA,f,234
+Bob Pettit,pettibo01,West,1961,NBA,f,205
+Oscar Robertson,roberos01,West,1961,NBA,f,205
+Gene Shue,shuege01,West,1961,NBA,f,170
+Jerry West,westje01,West,1961,NBA,f,175
+Paul Arizin,arizipa01,East,1960,NBA,t,190
+Wilt Chamberlain,chambwi01,East,1960,NBA,f,275
+Larry Costello,costela01,East,1960,NBA,f,186
+Bob Cousy,cousybo01,East,1960,NBA,f,175
+Tom Gola,golato01,East,1960,NBA,t,205
+Richie Guerin,gueriri01,East,1960,NBA,f,195
+Willie Naulls,naullwi01,East,1960,NBA,f,225
+Bill Russell,russebi01,East,1960,NBA,f,215
+Dolph Schayes,schaydo01,East,1960,NBA,f,220
+Bill Sharman,sharmbi01,East,1960,NBA,f,175
+George Yardley,yardlge01,East,1960,NBA,f,190
+Elgin Baylor,bayloel01,West,1960,NBA,f,225
+Walter Dukes,dukeswa01,West,1960,NBA,f,220
+Dick Garmaker,garmadi01,West,1960,NBA,f,200
+Cliff Hagan,hagancl01,West,1960,NBA,f,210
+Hot Rod Hundley,hundlho01,West,1960,NBA,f,185
+Clyde Lovellette,lovelcl01,West,1960,NBA,f,234
+Chuck Noble,noblech01,West,1960,NBA,f,190
+Bob Pettit,pettibo01,West,1960,NBA,f,205
+Gene Shue,shuege01,West,1960,NBA,f,170
+Jack Twyman,twymaja01,West,1960,NBA,f,210
+Paul Arizin,arizipa01,East,1959,NBA,f,190
+Larry Costello,costela01,East,1959,NBA,f,186
+Bob Cousy,cousybo01,East,1959,NBA,f,175
+Richie Guerin,gueriri01,East,1959,NBA,f,195
+Red Kerr,kerrre01,East,1959,NBA,f,230
+Bill Russell,russebi01,East,1959,NBA,f,215
+Woody Sauldsberry,sauldwo01,East,1959,NBA,f,220
+Dolph Schayes,schaydo01,East,1959,NBA,f,220
+Kenny Sears,searske01,East,1959,NBA,f,198
+Bill Sharman,sharmbi01,East,1959,NBA,f,175
+Elgin Baylor,bayloel01,West,1959,NBA,f,225
+Larry Foust,foustla01,West,1959,NBA,f,215
+Dick Garmaker,garmadi01,West,1959,NBA,f,200
+Cliff Hagan,hagancl01,West,1959,NBA,f,210
+Slater Martin,martisl01,West,1959,NBA,f,170
+Dick McGuire,mcguidi01,West,1959,NBA,f,180
+Bob Pettit,pettibo01,West,1959,NBA,f,205
+Gene Shue,shuege01,West,1959,NBA,f,170
+Jack Twyman,twymaja01,West,1959,NBA,f,210
+George Yardley,yardlge01,West,1959,NBA,f,190
+Paul Arizin,arizipa01,East,1958,NBA,f,190
+Larry Costello,costela01,East,1958,NBA,f,186
+Bob Cousy,cousybo01,East,1958,NBA,f,175
+Richie Guerin,gueriri01,East,1958,NBA,f,195
+Neil Johnston,johnsne01,East,1958,NBA,f,210
+Willie Naulls,naullwi01,East,1958,NBA,f,225
+Bill Russell,russebi01,East,1958,NBA,f,215
+Dolph Schayes,schaydo01,East,1958,NBA,f,220
+Kenny Sears,searske01,East,1958,NBA,f,198
+Bill Sharman,sharmbi01,East,1958,NBA,f,175
+Larry Foust,foustla01,West,1958,NBA,f,215
+Dick Garmaker,garmadi01,West,1958,NBA,f,200
+Cliff Hagan,hagancl01,West,1958,NBA,t,210
+Slater Martin,martisl01,West,1958,NBA,f,170
+Dick McGuire,mcguidi01,West,1958,NBA,f,180
+Bob Pettit,pettibo01,West,1958,NBA,f,205
+Gene Shue,shuege01,West,1958,NBA,f,170
+Maurice Stokes,stokema01,West,1958,NBA,f,232
+Jack Twyman,twymaja01,West,1958,NBA,f,210
+George Yardley,yardlge01,West,1958,NBA,f,190
+Paul Arizin,arizipa01,East,1957,NBA,f,190
+Carl Braun,braunca01,East,1957,NBA,f,180
+Nat Clifton,cliftna01,East,1957,NBA,f,220
+Bob Cousy,cousybo01,East,1957,NBA,f,175
+Harry Gallatin,gallaha01,East,1957,NBA,f,210
+Jack George,georgja01,East,1957,NBA,f,190
+Tom Heinsohn,heinsto01,East,1957,NBA,f,218
+Neil Johnston,johnsne01,East,1957,NBA,f,210
+Dolph Schayes,schaydo01,East,1957,NBA,f,220
+Bill Sharman,sharmbi01,East,1957,NBA,f,175
+Dick Garmaker,garmadi01,West,1957,NBA,f,200
+Mel Hutchins,hutchme01,West,1957,NBA,f,200
+Clyde Lovellette,lovelcl01,West,1957,NBA,t,234
+Ed Macauley,macaued01,West,1957,NBA,f,185
+Slater Martin,martisl01,West,1957,NBA,f,170
+Vern Mikkelsen,mikkeve01,West,1957,NBA,t,230
+Bob Pettit,pettibo01,West,1957,NBA,f,205
+Richie Regan,reganri01,West,1957,NBA,f,180
+Maurice Stokes,stokema01,West,1957,NBA,f,232
+Jack Twyman,twymaja01,West,1957,NBA,f,210
+George Yardley,yardlge01,West,1957,NBA,f,190
+Paul Arizin,arizipa01,East,1956,NBA,f,190
+Carl Braun,braunca01,East,1956,NBA,t,180
+Bob Cousy,cousybo01,East,1956,NBA,f,175
+Harry Gallatin,gallaha01,East,1956,NBA,f,210
+Jack George,georgja01,East,1956,NBA,f,190
+Neil Johnston,johnsne01,East,1956,NBA,f,210
+Red Kerr,kerrre01,East,1956,NBA,t,230
+Ed Macauley,macaued01,East,1956,NBA,f,185
+Dick McGuire,mcguidi01,East,1956,NBA,f,180
+Dolph Schayes,schaydo01,East,1956,NBA,f,220
+Bill Sharman,sharmbi01,East,1956,NBA,f,175
+Larry Foust,foustla01,West,1956,NBA,f,215
+Bob Harrison,harribo02,West,1956,NBA,f,190
+Mel Hutchins,hutchme01,West,1956,NBA,f,200
+Clyde Lovellette,lovelcl01,West,1956,NBA,f,234
+Slater Martin,martisl01,West,1956,NBA,f,170
+Vern Mikkelsen,mikkeve01,West,1956,NBA,f,230
+Bob Pettit,pettibo01,West,1956,NBA,f,205
+Maurice Stokes,stokema01,West,1956,NBA,f,232
+Bobby Wanzer,wanzebo01,West,1956,NBA,f,170
+George Yardley,yardlge01,West,1956,NBA,f,190
+Paul Arizin,arizipa01,East,1955,NBA,f,190
+Carl Braun,braunca01,East,1955,NBA,f,180
+Bob Cousy,cousybo01,East,1955,NBA,f,175
+Harry Gallatin,gallaha01,East,1955,NBA,f,210
+Neil Johnston,johnsne01,East,1955,NBA,f,210
+Ed Macauley,macaued01,East,1955,NBA,f,185
+Dick McGuire,mcguidi01,East,1955,NBA,f,180
+Dolph Schayes,schaydo01,East,1955,NBA,f,220
+Paul Seymour,seymopa01,East,1955,NBA,f,180
+Bill Sharman,sharmbi01,East,1955,NBA,f,175
+Jack Coleman,colemja01,West,1955,NBA,t,195
+Larry Foust,foustla01,West,1955,NBA,f,215
+Slater Martin,martisl01,West,1955,NBA,f,170
+Vern Mikkelsen,mikkeve01,West,1955,NBA,f,230
+Bob Pettit,pettibo01,West,1955,NBA,f,205
+Andy Phillip,phillan01,West,1955,NBA,f,195
+Jim Pollard,pollaji01,West,1955,NBA,f,185
+Arnie Risen,risenar01,West,1955,NBA,t,200
+Frank Selvy,selvyfr01,West,1955,NBA,f,180
+Bobby Wanzer,wanzebo01,West,1955,NBA,f,170
+George Yardley,yardlge01,West,1955,NBA,f,190
+Carl Braun,braunca01,East,1954,NBA,f,180
+Bob Cousy,cousybo01,East,1954,NBA,f,175
+Ray Felix,felixra01,East,1954,NBA,f,220
+Harry Gallatin,gallaha01,East,1954,NBA,f,210
+Neil Johnston,johnsne01,East,1954,NBA,f,210
+Ed Macauley,macaued01,East,1954,NBA,f,185
+Dick McGuire,mcguidi01,East,1954,NBA,f,180
+Dolph Schayes,schaydo01,East,1954,NBA,f,220
+Paul Seymour,seymopa01,East,1954,NBA,f,180
+Bill Sharman,sharmbi01,East,1954,NBA,f,175
+Bob Davies,daviebo01,West,1954,NBA,f,175
+Larry Foust,foustla01,West,1954,NBA,f,215
+Mel Hutchins,hutchme01,West,1954,NBA,f,200
+Slater Martin,martisl01,West,1954,NBA,f,170
+George Mikan,mikange01,West,1954,NBA,f,245
+Jack Molinas,molinja01,West,1954,NBA,t,200
+Andy Phillip,phillan01,West,1954,NBA,t,195
+Jim Pollard,pollaji01,West,1954,NBA,f,185
+Arnie Risen,risenar01,West,1954,NBA,f,200
+Don Sunderlage,sundedo01,West,1954,NBA,f,180
+Bobby Wanzer,wanzebo01,West,1954,NBA,f,170
+Don Barksdale,barksdo01,East,1953,NBA,f,200
+Carl Braun,braunca01,East,1953,NBA,f,180
+Bob Cousy,cousybo01,East,1953,NBA,f,175
+Bill Gabor,gaborbi01,East,1953,NBA,t,170
+Harry Gallatin,gallaha01,East,1953,NBA,f,210
+Neil Johnston,johnsne01,East,1953,NBA,f,210
+Ed Macauley,macaued01,East,1953,NBA,f,185
+Dolph Schayes,schaydo01,East,1953,NBA,f,220
+Fred Scolari,scolafr01,East,1953,NBA,t,180
+Paul Seymour,seymopa01,East,1953,NBA,f,180
+Bill Sharman,sharmbi01,East,1953,NBA,f,175
+Leo Barnhorst,barnhle01,West,1953,NBA,f,190
+Bob Davies,daviebo01,West,1953,NBA,f,175
+Larry Foust,foustla01,West,1953,NBA,f,215
+Mel Hutchins,hutchme01,West,1953,NBA,f,200
+Slater Martin,martisl01,West,1953,NBA,f,170
+George Mikan,mikange01,West,1953,NBA,f,245
+Vern Mikkelsen,mikkeve01,West,1953,NBA,f,230
+Andy Phillip,phillan01,West,1953,NBA,f,195
+Arnie Risen,risenar01,West,1953,NBA,f,200
+Bobby Wanzer,wanzebo01,West,1953,NBA,f,170
+Paul Arizin,arizipa01,East,1952,NBA,f,190
+Bob Cousy,cousybo01,East,1952,NBA,f,175
+Joe Fulks,fulksjo01,East,1952,NBA,f,190
+Harry Gallatin,gallaha01,East,1952,NBA,t,210
+Ed Macauley,macaued01,East,1952,NBA,f,185
+Dick McGuire,mcguidi01,East,1952,NBA,f,180
+Andy Phillip,phillan01,East,1952,NBA,f,195
+Red Rocha,rochare01,East,1952,NBA,f,185
+Dolph Schayes,schaydo01,East,1952,NBA,t,220
+Fred Scolari,scolafr01,East,1952,NBA,f,180
+Max Zaslofsky,zasloma01,East,1952,NBA,f,170
+Leo Barnhorst,barnhle01,West,1952,NBA,f,190
+Frankie Brian,brianfr01,West,1952,NBA,f,180
+Bob Davies,daviebo01,West,1952,NBA,f,175
+Dike Eddleman,eddledi01,West,1952,NBA,f,189
+Larry Foust,foustla01,West,1952,NBA,t,215
+George Mikan,mikange01,West,1952,NBA,f,245
+Vern Mikkelsen,mikkeve01,West,1952,NBA,f,230
+Jim Pollard,pollaji01,West,1952,NBA,f,185
+Arnie Risen,risenar01,West,1952,NBA,t,200
+Paul Walther,walthpa01,West,1952,NBA,f,160
+Bobby Wanzer,wanzebo01,West,1952,NBA,f,170
+Paul Arizin,arizipa01,East,1951,NBA,f,190
+Vince Boryla,borylvi01,East,1951,NBA,f,210
+Bob Cousy,cousybo01,East,1951,NBA,f,175
+Joe Fulks,fulksjo01,East,1951,NBA,f,190
+Harry Gallatin,gallaha01,East,1951,NBA,f,210
+Ed Macauley,macaued01,East,1951,NBA,f,185
+Dick McGuire,mcguidi01,East,1951,NBA,f,180
+Andy Phillip,phillan01,East,1951,NBA,f,195
+Red Rocha,rochare01,East,1951,NBA,f,185
+Dolph Schayes,schaydo01,East,1951,NBA,f,220
+Ralph Beard,beardra01,West,1951,NBA,f,175
+Frankie Brian,brianfr01,West,1951,NBA,f,180
+Bob Davies,daviebo01,West,1951,NBA,f,175
+Dike Eddleman,eddledi01,West,1951,NBA,f,189
+Larry Foust,foustla01,West,1951,NBA,f,215
+Alex Groza,grozaal01,West,1951,NBA,f,218
+George Mikan,mikange01,West,1951,NBA,f,245
+Vern Mikkelsen,mikkeve01,West,1951,NBA,f,230
+Jim Pollard,pollaji01,West,1951,NBA,f,185
+Fred Schaus,schaufr01,West,1951,NBA,f,205
