@@ -84,7 +84,7 @@ def resolve(keys, born, season):
     return None, "ambiguous"
 
 
-# injuries
+# injuries data
 log("\n## Injuries")
 inj = inj.dropna(subset=["player_name"]).copy()
 inj["date"] = pd.to_datetime(inj.date)
