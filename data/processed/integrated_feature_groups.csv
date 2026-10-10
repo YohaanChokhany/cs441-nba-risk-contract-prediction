@@ -1,4 +1,4 @@
-column,group,note
+column,group,notes
 injury_coverage_l1,injury history (prior seasons),"predictor; NaN where the injury log does not cover the prior season, see injury_coverage_l1"
 injury_coverage_l2,injury history (prior seasons),"predictor; NaN where the injury log does not cover the prior season, see injury_coverage_l1"
 il_events_l1,injury history (prior seasons),"predictor; NaN where the injury log does not cover the prior season, see injury_coverage_l1"
