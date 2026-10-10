@@ -1,0 +1,24 @@
+{
+  "source_url": "https://www.kaggle.com/datasets/loganlauton/nba-injury-stats-1951-2023",
+  "retrieved_date": "2026-10-09",
+  "original_filename": "NBA Player Injury Stats(1951 - 2023).csv",
+  "sha256": "967ebaf701738b33f1a99629dcb8aacc413ef1967d7ee6bbe9c6b85a7b023fe7",
+  "rows": 37667,
+  "columns": [
+    "Unnamed: 0",
+    "Date",
+    "Team",
+    "Acquired",
+    "Relinquished",
+    "Notes"
+  ],
+  "date_min": "1951-12-25",
+  "date_max": "2023-04-16",
+  "invalid_dates": 0,
+  "exact_duplicates_excluding_export_index": 2,
+  "both_player_fields_populated": 1,
+  "neither_player_field_populated": 1,
+  "team_typo_cavailers_rows": 1,
+  "pre_2005_rows": 6920,
+  "export_index_is_sequential": true
+}
