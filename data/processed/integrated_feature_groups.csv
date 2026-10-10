@@ -1,0 +1,41 @@
+column,group,note
+injury_coverage_l1,injury history (prior seasons),"predictor; NaN where the injury log does not cover the prior season, see injury_coverage_l1"
+injury_coverage_l2,injury history (prior seasons),"predictor; NaN where the injury log does not cover the prior season, see injury_coverage_l1"
+il_events_l1,injury history (prior seasons),"predictor; NaN where the injury log does not cover the prior season, see injury_coverage_l1"
+il_days_l1,injury history (prior seasons),"predictor; NaN where the injury log does not cover the prior season, see injury_coverage_l1"
+il_any_l1,injury history (prior seasons),"predictor; NaN where the injury log does not cover the prior season, see injury_coverage_l1"
+il_events_2yr,injury history (prior seasons),"predictor; NaN where the injury log does not cover the prior season, see injury_coverage_l1"
+il_days_2yr,injury history (prior seasons),"predictor; NaN where the injury log does not cover the prior season, see injury_coverage_l1"
+il_events_cum_since2006,injury history (prior seasons),"predictor; NaN where the injury log does not cover the prior season, see injury_coverage_l1"
+contract_years,contract terms,"describes the contract covering this season; not known before signing, check before using for a new-contract prediction"
+contract_age_at_start,contract terms,"describes the contract covering this season; not known before signing, check before using for a new-contract prediction"
+contract_year_num,contract terms,"describes the contract covering this season; not known before signing, check before using for a new-contract prediction"
+contract_years_left,contract terms,"describes the contract covering this season; not known before signing, check before using for a new-contract prediction"
+contract_is_final_year,contract terms,"describes the contract covering this season; not known before signing, check before using for a new-contract prediction"
+has_contract_record,contract terms,"describes the contract covering this season; not known before signing, check before using for a new-contract prediction"
+contract_avg_salary,contract target-side,equals the salary target in effect; never use as a predictor of salary
+contract_period_gp,contract-period outcome stats,stats earned during the contract itself; leakage if used to predict its salary
+contract_period_w,contract-period outcome stats,stats earned during the contract itself; leakage if used to predict its salary
+contract_period_l,contract-period outcome stats,stats earned during the contract itself; leakage if used to predict its salary
+contract_period_min,contract-period outcome stats,stats earned during the contract itself; leakage if used to predict its salary
+contract_period_pts,contract-period outcome stats,stats earned during the contract itself; leakage if used to predict its salary
+contract_period_fgm,contract-period outcome stats,stats earned during the contract itself; leakage if used to predict its salary
+contract_period_fga,contract-period outcome stats,stats earned during the contract itself; leakage if used to predict its salary
+contract_period_fg_pct,contract-period outcome stats,stats earned during the contract itself; leakage if used to predict its salary
+contract_period_3pm,contract-period outcome stats,stats earned during the contract itself; leakage if used to predict its salary
+contract_period_3pa,contract-period outcome stats,stats earned during the contract itself; leakage if used to predict its salary
+contract_period_3p_pct,contract-period outcome stats,stats earned during the contract itself; leakage if used to predict its salary
+contract_period_ftm,contract-period outcome stats,stats earned during the contract itself; leakage if used to predict its salary
+contract_period_fta,contract-period outcome stats,stats earned during the contract itself; leakage if used to predict its salary
+contract_period_ft_pct,contract-period outcome stats,stats earned during the contract itself; leakage if used to predict its salary
+contract_period_oreb,contract-period outcome stats,stats earned during the contract itself; leakage if used to predict its salary
+contract_period_dreb,contract-period outcome stats,stats earned during the contract itself; leakage if used to predict its salary
+contract_period_reb,contract-period outcome stats,stats earned during the contract itself; leakage if used to predict its salary
+contract_period_ast,contract-period outcome stats,stats earned during the contract itself; leakage if used to predict its salary
+contract_period_tov,contract-period outcome stats,stats earned during the contract itself; leakage if used to predict its salary
+contract_period_stl,contract-period outcome stats,stats earned during the contract itself; leakage if used to predict its salary
+contract_period_blk,contract-period outcome stats,stats earned during the contract itself; leakage if used to predict its salary
+contract_period_pf,contract-period outcome stats,stats earned during the contract itself; leakage if used to predict its salary
+contract_period_plus_minus,contract-period outcome stats,stats earned during the contract itself; leakage if used to predict its salary
+contract_id,identifier,
+contract_low_sample,contract quality flag,from contracts_clean.csv
