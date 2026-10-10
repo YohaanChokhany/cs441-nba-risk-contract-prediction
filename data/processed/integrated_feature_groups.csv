@@ -6,7 +6,7 @@ il_days_l1,injury history (prior seasons),"predictor; NaN where the injury log d
 il_any_l1,injury history (prior seasons),"predictor; NaN where the injury log does not cover the prior season, see injury_coverage_l1"
 il_events_2yr,injury history (prior seasons),"predictor; NaN where the injury log does not cover the prior season, see injury_coverage_l1"
 il_days_2yr,injury history (prior seasons),"predictor; NaN where the injury log does not cover the prior season, see injury_coverage_l1"
-il_events_cum_since2005,injury history (prior seasons),"predictor; NaN where the injury log does not cover the prior season, see injury_coverage_l1"
+il_events_cum_since2006,injury history (prior seasons),"predictor; NaN where the injury log does not cover the prior season, see injury_coverage_l1"
 contract_years,contract terms,"describes the contract covering this season; not known before signing, check before using for a new-contract prediction"
 contract_age_at_start,contract terms,"describes the contract covering this season; not known before signing, check before using for a new-contract prediction"
 contract_year_num,contract terms,"describes the contract covering this season; not known before signing, check before using for a new-contract prediction"
