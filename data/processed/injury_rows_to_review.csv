@@ -1,0 +1,4 @@
+source_row_id,date,team,acquired,relinquished,notes,invalid_date,source_row_ids,both_player_fields,missing_player,player_name,event_direction,conflicting_direction,player_name_key,suspect_player_name,missing_team,missing_notes,needs_review
+12214,2008-03-09,Kings,Kenny Thomas,,placed on IL,False,12214,False,False,Kenny Thomas,acquired,True,kenny thomas,False,False,False,True
+12699,2008-11-05,Heat,Shaun Livingston,,placed on IL with knee injury,False,12699,False,False,Shaun Livingston,acquired,True,shaun livingston,False,False,False,True
+12790,2008-11-13,Bulls,Larry Hughes,,placed on IL,False,12790,False,False,Larry Hughes,acquired,True,larry hughes,False,False,False,True

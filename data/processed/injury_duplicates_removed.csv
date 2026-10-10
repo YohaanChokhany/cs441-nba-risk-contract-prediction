@@ -1,0 +1,3 @@
+source_row_id,date,team,acquired,relinquished,notes,invalid_date,source_row_ids
+25833,2017-10-24,Magic,Aaron Gordon,,activated from IL,False,25832;25833
+29182,2019-02-25,Warriors,,Jacob Evans,placed on IL,False,29181;29182

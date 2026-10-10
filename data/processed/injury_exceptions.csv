@@ -1,0 +1,6 @@
+source_row_id,date,team,acquired,relinquished,notes,invalid_date,source_row_ids,action,reason,approved_change
+525,1987-02-01,Kings,,Kings,placed on IL with right foot injury,False,525,exclude_unusable_player,Team name in place of player,Remove from cleaned output; preserve original here
+14793,2010-01-16,Jazz,Kyrylo Fesenko,Kyrylo Fesenko,activated from IL,False,14793,correct_activation,Same player in both fields; notes explicitly say activated from IL,Set relinquished to empty; retain acquired
+28651,2018-12-27,76ers,,76ers,placed on IL,False,28651,exclude_unusable_player,Team name in place of player,Remove from cleaned output; preserve original here
+29351,2019-03-16,Nets,,,activated from IL,False,29351,exclude_unusable_player,Both player fields empty,Remove from cleaned output; preserve original here
+30322,2019-12-31,Thunder,11/25/2019,,activated from IL,False,30322,exclude_unusable_player,Date in place of player,Remove from cleaned output; preserve original here
