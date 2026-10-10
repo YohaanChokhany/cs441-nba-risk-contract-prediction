@@ -1,7 +1,7 @@
 # Master dataset build log
 
 - End-of-season team types present: ['All-Defense', 'All-NBA', 'All-Rookie']
-- Master table before filtering: 14,945 salary rows (14,549 linked to a player identifier, 396 not linked), 109 columns.
+- Master table before filtering: 14,945 salary rows (14,549 linked to a player identifier, 396 not linked), 113 columns.
 
 ### Evidence for the record filters (window start, prior-season minutes at least 200)
 Median salary as a share of the cap, by whether the player logged at least 10 games in the salary season:
@@ -34,11 +34,12 @@ mp_l1
 - Has cap and age: 8,620
 
 ### Missing values in candidate features after record filters
-none
-- Imputed with the median of the filtered table: 0 values across 0 features (largest: {}).
+log_prior_salary        0.0116
+prior_salary_pct_cap    0.0116
+- Imputed with the median of the filtered table: 200 values across 2 features (largest: {'log_prior_salary': 100, 'prior_salary_pct_cap': 100}).
 
 ### Correlation pruning (drop a feature if |r| > 0.9 with a kept feature that is more correlated with the targets)
-- Candidate features: 76; kept: 53; dropped: 23
+- Candidate features: 79; kept: 56; dropped: 23
   - dropped vorp_avg2 (r = 0.92 with ws_avg2)
   - dropped ws_l1 (r = 0.928 with ws_avg2)
   - dropped per_l1 (r = 0.936 with per_avg2)
@@ -63,10 +64,4 @@ none
   - dropped x3pa_36_adj_l1 (r = 0.904 with x3pa_36_l1)
   - dropped stl_36_l1 (r = 0.992 with stl_percent_l1)
 - Near-constant features among kept (std < 1e-6): []
-
-### Final model-ready table: 8,620 rows, 53 features, 3 target columns, 10 identifier and split columns
-- Seasons 2000 to 2025; players 1,582; rows with the Estimated Plus-Minus extension available: 7,689
-- Targets: salary median 4,000,000 dollars, mean 6,925,372; share of cap median 0.0618; skewness salary 2.40, log salary -0.12
-- Correlation of final features with log salary (top 12): mpg_l1 0.61, pts_l1 0.58, ws_avg2 0.57, mp_avg2 0.56, gs_share_l1 0.54, peak_bpm 0.54, bpm_avg2 0.53, per_avg2 0.53, pts_36_avg2 0.53, obpm_l1 0.52, vorp_l1 0.50, career_ws 0.47
-- Prior-salary extension (not a feature in the main table): available for 8,520 of 8,620 rows
 - Duplicate player-seasons: 0; fold sizes: {0: 1808, 1: 1845, 2: 1650, 3: 1625, 4: 1692}; time holdout rows: 1101

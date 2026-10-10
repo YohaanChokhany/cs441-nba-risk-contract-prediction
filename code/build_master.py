@@ -98,6 +98,13 @@ m["age_sq"] = m.age ** 2
 
 # targets and context
 m["cap_usd"] = m.season.map(cap)
+# prior-season salary (known at signing time; a previous-season value, so the prior-season rule holds)
+ps = sal[["player_id","season","salary"]].dropna(subset=["player_id"]).drop_duplicates(["player_id","season"])
+ps = ps.assign(season=ps.season + 1).rename(columns={"salary":"prior_salary"})
+m = m.merge(ps, on=["player_id","season"], how="left")
+m["has_prior_salary"] = m.prior_salary.notna().astype(int)
+m["log_prior_salary"] = np.log(m.prior_salary)
+m["prior_salary_pct_cap"] = m.prior_salary / (m.season - 1).map(cap)
 m["log_salary"] = np.log(m.salary)
 m["salary_pct_cap"] = m.salary / m.cap_usd
 m["in_injury_window"] = (m.season >= 2005).astype(int)
@@ -147,6 +154,7 @@ add([f"{c}_avg2" for c in LAG2] + [f"{c}_trend" for c in TREND] + ["has_l2"], "t
 add(["career_g","career_mp","career_ws","career_vorp","peak_bpm"], "career to date")
 add(["all_star_l1","all_nba_l1","all_def_l1","all_star_count_prior","all_nba_count_prior","all_def_count_prior"], "honors")
 add(["cap_usd"], "context")
+add(["log_prior_salary","prior_salary_pct_cap","has_prior_salary"], "prior salary")
 EPM = ["epm_off_l1","epm_def_l1","epm_tot_l1"]
 X = d[list(feat)].copy()
 miss = X.isna().mean(); miss = miss[miss > 0].sort_values(ascending=False)
@@ -162,7 +170,7 @@ for c in ["ts_percent_l1"]:
 # ---------------- correlation pruning
 tgt = d[["log_salary","salary_pct_cap"]]
 cor_t = pd.DataFrame({t: X.corrwith(tgt[t]) for t in tgt}).abs().mean(axis=1).sort_values(ascending=False)
-protected = set(POS.columns) | {"has_l2","undrafted_or_unlisted","cap_usd"}
+protected = set(POS.columns) | {"has_l2","undrafted_or_unlisted","cap_usd","log_prior_salary","prior_salary_pct_cap","has_prior_salary"}
 num = [c for c in X.columns if c not in protected]
 C = X[num].corr().abs()
 kept = []; dropped = []
@@ -183,18 +191,6 @@ mr.to_csv(f"{out}/master_model_ready.csv", index=False)
 ex_cols = ["salary_row_id"] + EPM
 d[ex_cols].to_csv(f"{out}/master_epm_extension.csv", index=False)
 
-# optional extension: the player's salary in the previous season (kept out of the main table on purpose)
-ps = sal[["player_id","season","salary"]].dropna(subset=["player_id"]).drop_duplicates(["player_id","season"])
-ps = ps.assign(season=ps.season + 1).rename(columns={"salary":"prior_salary"})
-px = d[["salary_row_id","player_id","season"]].merge(ps, on=["player_id","season"], how="left")
-px["log_prior_salary"] = np.log(px.prior_salary)
-px["prior_salary_pct_cap"] = px.prior_salary / (px.season - 1).map(cap)
-px[["salary_row_id","prior_salary","log_prior_salary","prior_salary_pct_cap"]].to_csv(f"{out}/master_prior_salary_extension.csv", index=False)
-log(f"\n### Final model-ready table: {mr.shape[0]:,} rows, {len(final)} features, {len(TGT)} target columns, {len(ID)} identifier and split columns")
-log(f"- Seasons {mr.season.min()} to {mr.season.max()}; players {mr.player_id.nunique():,}; rows with the Estimated Plus-Minus extension available: {int(d.epm_tot_l1.notna().sum()):,}")
-log(f"- Targets: salary median {mr.salary.median():,.0f} dollars, mean {mr.salary.mean():,.0f}; share of cap median {mr.salary_pct_cap.median():.4f}; skewness salary {mr.salary.skew():.2f}, log salary {mr.log_salary.skew():.2f}")
-log("- Correlation of final features with log salary (top 12): " + ", ".join(f"{k} {v:.2f}" for k, v in X[final].corrwith(d.log_salary).abs().sort_values(ascending=False).head(12).items()))
-log(f"- Prior-salary extension (not a feature in the main table): available for {int(px.prior_salary.notna().sum()):,} of {len(px):,} rows")
 log(f"- Duplicate player-seasons: {int(mr.duplicated(['player_id','season']).sum())}; fold sizes: {mr.fold.value_counts().sort_index().to_dict()}; time holdout rows: {int(mr.time_holdout.sum())}")
 fd = pd.DataFrame({"feature": list(feat), "group": list(feat.values())})
 fd["kept_after_pruning"] = fd.feature.isin(final)

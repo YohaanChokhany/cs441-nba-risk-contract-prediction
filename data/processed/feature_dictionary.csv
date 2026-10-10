@@ -75,3 +75,6 @@ all_star_count_prior,honors,True,,,0.445,All-Star selections through the prior s
 all_nba_count_prior,honors,False,all_star_count_prior,0.919,0.394,All-NBA selections through the prior season,"all_star_selections, end_of_season_teams"
 all_def_count_prior,honors,True,,,0.279,All-Defense selections through the prior season,"all_star_selections, end_of_season_teams"
 cap_usd,context,True,,,0.173,league salary cap for the salary season (context for eras),external cap history (RealGM)
+log_prior_salary,prior salary,True,,,0.739,natural logarithm of the player's salary in the previous season (median-filled if there is no previous salary row),"salaries, external cap history (RealGM)"
+prior_salary_pct_cap,prior salary,True,,,0.76,previous season salary as a share of that season's salary cap (median-filled if missing),"salaries, external cap history (RealGM)"
+has_prior_salary,prior salary,True,,,0.066,1 if a salary row exists for the previous season,"salaries, external cap history (RealGM)"

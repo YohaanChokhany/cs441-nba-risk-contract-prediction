@@ -21,6 +21,6 @@ for tgt in ["log_salary", "salary_pct_cap"]:
     p = ridge_fit_predict(X[~te], y[~te], X[te])
     pu = np.exp(p) if tgt == "log_salary" else p * (d.salary.values / d.salary_pct_cap.values)[te]
     print(f"{tgt}: grouped 5-fold R2 {r2(y, oof):.3f}, MAE {mae/1e6:.2f}M dollars | time holdout (2023-2025) R2 {r2(y[te], p):.3f}, MAE {np.abs(pu - d.salary.values[te]).mean()/1e6:.2f}M dollars")
-# leakage guard: confirm no feature contains the salary itself
+# leakage guard: no feature may contain the current season salary (prior-season salary is allowed); show the strongest correlations
 c = pd.DataFrame(X, columns=F).corrwith(d.log_salary).abs().sort_values(ascending=False)
 print("max |r| with log salary:", c.head(3).round(3).to_dict())

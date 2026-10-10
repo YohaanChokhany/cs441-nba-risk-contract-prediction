@@ -14,7 +14,8 @@ OTHER = {"age":"age on February 1 of the salary season","age_sq":"age squared (f
  "career_g":"career games through the prior season (1996 onward)","career_mp":"career minutes through the prior season (1996 onward)","career_ws":"career win shares through the prior season (1996 onward)",
  "career_vorp":"career value over replacement player through the prior season (1996 onward)","peak_bpm":"best single-season box plus-minus so far, seasons with at least 200 minutes",
  "all_star_l1":"1 if an All-Star in the prior season","all_nba_l1":"1 if All-NBA in the prior season","all_def_l1":"1 if All-Defense in the prior season","all_star_count_prior":"All-Star selections through the prior season",
- "all_nba_count_prior":"All-NBA selections through the prior season","all_def_count_prior":"All-Defense selections through the prior season","cap_usd":"league salary cap for the salary season (context for eras)","has_l2":"1 if the player also has a statistics row two seasons back"}
+ "all_nba_count_prior":"All-NBA selections through the prior season","all_def_count_prior":"All-Defense selections through the prior season","cap_usd":"league salary cap for the salary season (context for eras)","has_l2":"1 if the player also has a statistics row two seasons back",
+ "log_prior_salary":"natural logarithm of the player's salary in the previous season (median-filled if there is no previous salary row)","prior_salary_pct_cap":"previous season salary as a share of that season's salary cap (median-filled if missing)","has_prior_salary":"1 if a salary row exists for the previous season"}
 def desc(f):
     if f in OTHER: return OTHER[f]
     if f.startswith("pos_"): return f"1 if primary position is {f[4:]}"
@@ -24,7 +25,7 @@ def desc(f):
 fd["description"] = fd.feature.map(desc)
 fd["source_tables"] = fd.group.map({"player profile":"dim_players, dim_draft_history, salaries","position":"salaries, season statistics, dim_players","prior-season performance":"fact_player_season_stats",
   "era-adjusted prior-season rates":"fact_player_season_stats","two-season history and trend":"fact_player_season_stats","career to date":"fact_player_season_stats",
-  "honors":"all_star_selections, end_of_season_teams","context":"external cap history (RealGM)"})
+  "honors":"all_star_selections, end_of_season_teams","context":"external cap history (RealGM)","prior salary":"salaries, external cap history (RealGM)"})
 fd = fd.rename(columns={"dropped_for":"dropped_because_correlated_with","r_with":"absolute_correlation"})
 fd.to_csv(f"{proc}/feature_dictionary.csv", index=False)
 print(fd.groupby("group").agg(candidates=("feature","size"), kept=("kept_after_pruning","sum")).to_string()); print("missing descriptions:", fd[fd.description==""].feature.tolist())
