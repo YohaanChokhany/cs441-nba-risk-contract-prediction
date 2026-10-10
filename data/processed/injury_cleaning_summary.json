@@ -1,0 +1,50 @@
+{
+  "input_filename": "NBA Player Injury Stats(1951 - 2023).csv",
+  "input_sha256": "967ebaf701738b33f1a99629dcb8aacc413ef1967d7ee6bbe9c6b85a7b023fe7",
+  "input_rows": 37667,
+  "output_rows": 37661,
+  "duplicates_removed": 2,
+  "whitespace_or_unicode_changes": {
+    "date": 0,
+    "team": 0,
+    "acquired": 17623,
+    "relinquished": 20044,
+    "notes": 0
+  },
+  "team_typo_corrections": 1,
+  "unusable_player_rows_excluded": 4,
+  "activation_field_corrections": 1,
+  "date_min": "1951-12-25",
+  "date_max": "2023-04-16",
+  "years_filtered": 0,
+  "flags": {
+    "invalid_date": 0,
+    "both_player_fields": 0,
+    "missing_player": 0,
+    "suspect_player_name": 0,
+    "missing_team": 0,
+    "missing_notes": 0,
+    "conflicting_direction": 3
+  },
+  "rows_needing_review": 3,
+  "output_columns": [
+    "source_row_id",
+    "date",
+    "team",
+    "acquired",
+    "relinquished",
+    "notes",
+    "invalid_date",
+    "source_row_ids",
+    "both_player_fields",
+    "missing_player",
+    "player_name",
+    "event_direction",
+    "conflicting_direction",
+    "player_name_key",
+    "suspect_player_name",
+    "missing_team",
+    "missing_notes",
+    "needs_review"
+  ]
+}
