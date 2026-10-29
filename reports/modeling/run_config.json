@@ -1,0 +1,13 @@
+{
+ "xgb_params": {
+  "max_depth": 5,
+  "learning_rate": 0.03,
+  "n_estimators": 300,
+  "min_child_weight": 8
+ },
+ "ridge_alpha_full_fit": 49.238826317067414,
+ "best_cv": {
+  "model": "XGBoost",
+  "features": "perf+injury+prior"
+ }
+}
