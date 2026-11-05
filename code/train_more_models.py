@@ -218,7 +218,7 @@ col = lambda m: fam.get(m, "#DD8452")
 for ax, (metric, title, scale) in zip(axes, [("r2_log", "R² (log salary)", 1), ("mae_usd", "MAE ($M)", 1e6),
                                               ("r2_log_newdeal", "R² (log), new-deal rows", 1)]):
     s = summ[summ.features == "perf+injury+prior"].set_index("model").loc[order_models]
-    s = s.sort_values(f"{metric}_mean", ascending=(metric == "mae_usd"))
+    s = s.loc[s.sort_values("r2_log_mean", ascending=False).index]      # same row order in every panel (panels share the y labels)
     ax.barh(s.index, s[f"{metric}_mean"] / scale, xerr=s[f"{metric}_std"] / scale, color=[col(m) for m in s.index], capsize=2)
     for y_, v in enumerate(s[f"{metric}_mean"] / scale): ax.text(v, y_, f" {v:.2f}", va="center", fontsize=8)
     ax.invert_yaxis(); ax.set_title(title); ax.spines[["top", "right"]].set_visible(False)
