@@ -7,3 +7,4 @@ __pycache__/
 data/interim/
 # intermediate written by build_master.py and consumed by make_feature_dictionary.py
 data/processed/feature_dictionary_draft.csv
+catboost_info/
